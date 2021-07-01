@@ -1,6 +1,6 @@
 ---
 
-title: Global AppSec Example 2020
+title: Global AppSec US 2021 Virtual
 layout: event
 
 ---
