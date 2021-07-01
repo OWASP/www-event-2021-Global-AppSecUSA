@@ -1,17 +1,17 @@
 title: 2021 Virtual Global AppSec USA 
 dates: November 8-12
-training: November 8-10
+#training: November 8-10
 conference: November 11-12
 #registration_url: /www-event-example/register/
 logo_url: https://owasp.org/
 venue: Virtual On-line Event
-location: Virtual On-line Event
+#location: Virtual On-line Event
 background: globe-nasa-Q1p7bh3SHj8-unsplash.jpg
 color: 797979
 analytics: 
 registration_open: false
-#pitch: "Global AppSec - Example is coming January 1-5, 2055 to the OWASP Foundation Convention Center in Montpelier. Designed for private and public sector infosec professionals, the OWASP three day training and two day conference equips developers, defenders, and advocates to build a more secure web.
-#        Join us for a celebration of leading application security technologies, speakers, prospects, and community, in a unique event that will build on everything you already know to expect from an OWASP Global Conference."
+pitch: "Global AppSec US Virtual 2021 returns Nov. 11-12, 2021. Designed for private and public sector infosec professionals, the two day OWASP conferences equip developers, defenders, and advocates to build a more secure web.
+        Join us for leading application security technologies, speakers, prospects, and community, in a unique event that will build on everything you already know to expect from an OWASP Global Conference."
 #
 #<br><br> Call for Program Review Team is NOW OPEN! [Submit here](https://owasp.submittable.com/submit/188746/call-for-program-review-team-for-2021-owasps-20th-anniversary-2021-owasp-vir)
 #
