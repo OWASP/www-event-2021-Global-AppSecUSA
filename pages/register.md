@@ -12,7 +12,7 @@ Welcome to Example Event presented by the OWASP Foundation. Please note that thi
 
 {% else %}
 <br>
-### Registration is closed.
+### Registration is not yet open. Please return later.
 <br>
 {% endif %}
 
