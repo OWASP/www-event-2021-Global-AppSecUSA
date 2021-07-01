@@ -1,14 +1,14 @@
-- title: Conference
-  price: $295
-  info: Non-member
-  items: 
-    - title: Conference and Membership
-      price: $245
-      info:
-- title: Member Conference
-  price: $199
-  items:
-    - title: Super Early Bird
-      price: $99
-      info:
+#- title: Conference
+  #price: $295
+  info: Pricing and registeration coming soon!
+  #items: 
+    #- title: Conference and Membership
+      #price: $245
+      #info:
+#- title: Member Conference
+  #price: $199
+  #items:
+    #- title: Super Early Bird
+      #price: $99
+      #info:
           
