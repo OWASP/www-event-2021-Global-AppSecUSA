@@ -1,14 +1,14 @@
-- title: Full Conference
-  price: TBD
-  info: '*See pricing*'
+- title: Conference
+  price: $295
+  info: Non-member
   items: 
-    - title: Early Bird
-      price: TBD
-      info: '*Contact Bob*'
+    - title: Conference and Membership
+      price: $245
+      info:
 - title: Member Conference
-  price: TBD
+  price: $199
   items:
-    - title: Member Early Bird
-      price: TBD
+    - title: Super Early Bird
+      price: $99
       info:
           
