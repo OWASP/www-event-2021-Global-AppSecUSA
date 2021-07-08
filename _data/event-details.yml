@@ -6,7 +6,7 @@ registration_url: https://www.eventbrite.com/e/global-appsec-us-2021-virtual-tic
 logo_url: https://owasp.org/
 venue: Virtual On-line Event
 #location: Virtual On-line Event
-background: globe-nasa-Q1p7bh3SHj8-unsplash.jpg
+background: virtualUSheader.png
 color: 797979
 analytics: 
 registration_open: false
