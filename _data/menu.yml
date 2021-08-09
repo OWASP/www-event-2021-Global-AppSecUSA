@@ -8,10 +8,10 @@
       #url : /
     #- title: Training
       #url : /
-    - title: Call for Trainers
-      url : https://owasp.submittable.com/submit/197329/2021-virtual-global-appsec-cft
-    - title: Call for Papers
-      url : https://owasp.submittable.com/submit/197322/2021-virtual-global-appsec-cfp
+    - title: Coming Soon
+      #url : https://owasp.submittable.com/submit/197329/2021-virtual-global-appsec-cft
+   #- title: Call for Papers
+      #url : https://owasp.submittable.com/submit/197322/2021-virtual-global-appsec-cfp
 - title: EXHIBIT & SPONSORSHIP OPPORTUNITIES
   items:
     - title: Sponsorship
