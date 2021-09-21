@@ -3,3 +3,8 @@
   url: https://apiiro.com/
   backgroundSize: 125px
   type: Diamond
+- logo:  /assets/images/sponsors/silogostacked.png
+  name: Secuirty Innovation
+  url: https://www.securityinnovation.com/
+  backgroundSize: 125px
+  type: Platinum
