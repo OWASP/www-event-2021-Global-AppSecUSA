@@ -8,3 +8,14 @@
   url: https://www.securityinnovation.com/
   backgroundSize: 125px
   type: Platinum
+- logo: /assets/images/sponsors/github_logo.png
+  name: GitHub
+  url: 	https://github.com/enterprise
+  backgroundSize: 125px
+  type: Diamond
+- logo: /assets/images/sponsors/hackedulogo.png
+  name: HackEDU
+  url: https://www.hackedu.com
+  backgroundSize: 125px
+  type: Diamond
+  
