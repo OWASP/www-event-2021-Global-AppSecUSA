@@ -18,4 +18,8 @@
   url: https://www.hackedu.com
   backgroundSize: 125px
   type: Diamond
-  
+- logo: /assets/images/sponsors/IriusRiskNEWlogo.png
+  name: IriusRisk
+  url: https://iriusrisk.com
+  backgroundSize: 125px
+  type: Platinum
