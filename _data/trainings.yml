@@ -8,6 +8,14 @@
         experience. He works in the field of cybersecurity, cybersecurity research,
         and threat intelligence.
       TrainerId: trainer_train
+    - Name: Trainer Dos
+      Email: tainer.dos@owasp.org
+      Image: /assets/images/trainers/staff_harold.jpg
+      Twitter: Trainer_Dos
+      Biography: The second trainer of this course is a cybersecurity certified professional with more than 125 years of
+        experience. He works in the field of cybersecurity, cybersecurity research,
+        and threat intelligence.
+      TrainerId: trainer_dos
   Title: Healthy Eating for Cybersecurity Fitness
   URL: /register/?id=sku_sisisis
   SectionId: sku_sisisis
