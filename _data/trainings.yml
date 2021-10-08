@@ -1,0 +1,15 @@
+- Type: Training
+  Trainers:
+    - Name: Trainer Train Train
+      Email: tainer.train@owasp.org
+      Image: /assets/images/trainers/staff_harold.jpg
+      Twitter: Trainer_TrainTrain
+      Biography: The trainer of this course is a cybersecurity certified professional with more than 125 years of
+        experience. He works in the field of cybersecurity, cybersecurity research,
+        and threat intelligence.
+      TrainerId: trainer_train
+  Title: Healthy Eating for Cybersecurity Fitness
+  URL: /register/?id=sku_sisisis
+  SectionId: sku_sisisis
+  Description: >-
+      Loads of things to learn about eating healthy to keep up the stamina for those long 72 hour sprints.
