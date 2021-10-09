@@ -6,16 +6,16 @@
       Twitter: NahamSec
       Biography: Ben is the Head of Hacker Education at HackerOne by day, and a hacker and content creator by night. He has helped identify over 700 security vulnerabilities across hundreds of web and mobile applications for companies such as Verizon Media, Red Bull, Apple, Airbnb, Snapchat, The US Department of Defense, Lyft, and more. One of the world’s top ethical hackers, he has invested time back into the security community by creating a community of 1000+ active hackers and hosting international conferences dedicated to hacker education and collaboration. He has also held free workshops and trainings to teach others about security and web application hacking.
       TrainerId: trainer_train
-    - Name: Trainer Dos
-      Email: tainer.dos@owasp.org
-      Image: /assets/images/trainers/staff_harold.jpg
-      Twitter: Trainer_Dos
-      Biography: The second trainer of this course is a cybersecurity certified professional with more than 125 years of
+    #- Name: Trainer Dos
+      #Email: tainer.dos@owasp.org
+      #Image: /assets/images/trainers/staff_harold.jpg
+      #Twitter: Trainer_Dos
+      #Biography: The second trainer of this course is a cybersecurity certified professional with more than 125 years of
         experience. He works in the field of cybersecurity, cybersecurity research,
         and threat intelligence.
-      TrainerId: trainer_dos
-  Title: Healthy Eating for Cybersecurity Fitness
-  URL: /register/?id=sku_sisisis
+      #TrainerId: trainer_dos
+  Title: Introduction to Web Application Hacking & Bug Bounty
+  URL: /register/https://www.eventbrite.com/e/global-appsec-us-2021-virtual-training-tickets-188589806187
   SectionId: sku_sisisis
   Description: >-
-      Loads of things to learn about eating healthy to keep up the stamina for those long 72 hour sprints.
+      This class is based on case studies of real life web application vulnerabilities. Participants are given a hands-on experience by learning each vulnerability category and completing a series of challenges at the end of each day. Participants will also get an in depth understanding of reconnaissance and automation process which will enable them to increase their attack surface in order to find more vulnerabilities. This course comes with challenges to learn the basics of each vulnerability as well as a mock infrastructure/organization to provide a real world scenario on how to approach a target and look for different vulnerabilities.
