@@ -9,8 +9,6 @@ permalink: /trainings/
 # {{ page.title }}
 <br>
 
-### **Please note: All courses take place simultaneously over two days, only register for one.**
-
 **Training subject to change based on trainer availability.**
 {% if site.data.trainings.size > 0 %}
 {% assign trainings = site.data.trainings | sort: 'Title' %}
