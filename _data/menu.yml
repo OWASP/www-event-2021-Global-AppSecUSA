@@ -6,8 +6,8 @@
       #url : /schedule/
     #- title: Keynotes
       #url : /
-    #- title: Training
-      #url : /
+    - title: Training
+      url : /trainings/
     - title: Agenda
       url : https://owaspglobalappsecus2021.sched.com/
    #- title: Call for Papers
