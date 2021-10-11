@@ -71,21 +71,21 @@
   SectionId: sku_AWH
   Description: >-
     This is the latest edition of our threat modeling trainings released at Black Hat USA 2021, with a new threat modeling war game with red and blue threat modeling teams. Engaged in capture the flag style threat modeling challenges your team will battle for control over an offshore wind turbine park. Based on our experience in securing real-world Operational Technology (OT) infrastructure.
-Also, in this edition we enhanced the sections on agile and DevOps threat modeling, threat modeling and compliance, added a section on "threat modeling at scale" and all participants get our Threat Modeling Playbook plus one-year access to our online threat modeling training subscription.
-As highly skilled professionals, we know that there is a gap between academic knowledge of threat modeling and the real world. To minimize that gap, we developed practical Use Cases, based on real-life projects. Each use case includes a description of the environment, together with questions and templates to build a threat model. Using this methodology for the hands-on workshops we provide our students with a robust training experience and the templates to incorporate threat modeling best practices in their daily work.
-Students will be challenged in groups of 3 to 4 people to perform the different stages of threat modeling on the following
-• Threat modeling an IoT gateway with a cloud-based update service
-• Get into the defender's head – modeling points of attack against a nuclear facility
-• Threat mitigations of OAuth scenarios for an HR application
-• Privacy analysis of a new face recognition system in an airport
-• Battle for control over "Zwarte Wind", an offshore wind turbine park
-After each hands-on workshop, the results are discussed, and students receive a documented solution. Based on our successful trainings in the last years and the great and positive feedback, we released this updated advanced threat modeling training at Black Hat USA 2021.
-Some feedback from our Black Hat training attendees
-• “Sebastien delivered! One of the best workshop instructor's I've ever had.”
-• “Very nice training course, one of the best I ever attended.”
-• “I feel that this course is one of the most important courses to be taken by a security professional.”
-• “The group hands-on practical exercises truly helped.”
-• “hands-on labs are very well designed, and the solutions are also very smart!”
+    Also, in this edition we enhanced the sections on agile and DevOps threat modeling, threat modeling and compliance, added a section on "threat modeling at scale" and all participants get our Threat Modeling Playbook plus one-year access to our online threat modeling training subscription.
+    As highly skilled professionals, we know that there is a gap between academic knowledge of threat modeling and the real world. To minimize that gap, we developed practical Use Cases, based on real-life projects. Each use case includes a description of the environment, together with questions and templates to build a threat model. Using this methodology for the hands-on workshops we provide our students with a robust training experience and the templates to incorporate threat modeling best practices in their daily work.
+    Students will be challenged in groups of 3 to 4 people to perform the different stages of threat modeling on the following
+    • Threat modeling an IoT gateway with a cloud-based update service
+    • Get into the defender's head – modeling points of attack against a nuclear facility
+    • Threat mitigations of OAuth scenarios for an HR application
+    • Privacy analysis of a new face recognition system in an airport
+    • Battle for control over "Zwarte Wind", an offshore wind turbine park
+    After each hands-on workshop, the results are discussed, and students receive a documented solution. Based on our successful trainings in the last years and the great and positive feedback, we released this updated advanced threat modeling training at Black Hat USA 2021.
+    Some feedback from our Black Hat training attendees
+    • “Sebastien delivered! One of the best workshop instructor's I've ever had.”
+    • “Very nice training course, one of the best I ever attended.”
+    • “I feel that this course is one of the most important courses to be taken by a security professional.”
+    • “The group hands-on practical exercises truly helped.”
+    • “hands-on labs are very well designed, and the solutions are also very smart!”
 - Type: Training
   Trainers:
     - Name: Nick Nikiforakis
