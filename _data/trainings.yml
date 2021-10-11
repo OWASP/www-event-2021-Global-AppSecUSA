@@ -92,7 +92,13 @@
       Email: nick.nikiforakis@protonmail.com
       Image: /assets/images/trainers/NickNikiforakis.jpeg
       Twitter: nicknikiforakis
-      Biography: Nick Nikiforakis is an Associate Professor at Stony Brook University working on web security and privacy. He leads the PragSec Lab, where his students conduct research in cyber security, with a focus on web security, web privacy, DNS security, attack-surface reduction, and deception-based security. He is the author of more than 70 peer-reviewed academic publications and his work is cited over 4,000 times. He is one of the pioneers in the space of browser fingerprinting, with more than 10 years of experience in detecting and defending against unwanted fingerprinting. His seminal work titled "Cookieless monster: Exploring the ecosystem of web-based device fingerprinting"  was the first study of the adoption of fingerprinting the wild and has been cited more than 500 times. All his work can be found on his website: https://securitee.org
+      Biography: >-
+          Nick Nikiforakis is an Associate Professor at Stony Brook University working on web security and privacy. He leads the PragSec Lab, where his 
+          students conduct research in cyber security, with a focus on web security, web privacy, DNS security, attack-surface reduction, and deception-based 
+          security. He is the author of more than 70 peer-reviewed academic publications and his work is cited over 4,000 times. He is one of the pioneers in 
+          the space of browser fingerprinting, with more than 10 years of experience in detecting and defending against unwanted fingerprinting. His seminal 
+          work titled "Cookieless monster - Exploring the ecosystem of web-based device fingerprinting"  was the first study of the adoption of fingerprinting 
+          the wild and has been cited more than 500 times. All his work can be found on his [website](https://securitee.org)
   TrainerId: trainer006
   Title: Browser Fingerprinting: Past, Present, and Future (1-day training course)
   URL: https://www.eventbrite.com/e/global-appsec-us-2021-virtual-training-tickets-188589806187
