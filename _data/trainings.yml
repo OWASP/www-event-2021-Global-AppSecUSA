@@ -14,7 +14,7 @@
       #  experience. He works in the field of cybersecurity, cybersecurity research,
       #  and threat intelligence.
       #TrainerId: trainer_dos
-  Title: Introduction to Web Application Hacking & Bug Bounty
+  Title: Introduction to Web Application Hacking & Bug Bounty (3-day trainging course)
   URL: https://www.eventbrite.com/e/global-appsec-us-2021-virtual-training-tickets-188589806187
   SectionId: sku_IWAHBB
   Description: >-
@@ -27,8 +27,25 @@
       Twitter: magnologan
       Biography: Magno Logan works as an Information Security Specialist for Trend Micro. He specializes in Cloud, Container, and Application Security Research, Threat Modelling, and Red Teaming. In addition, he has been tapped as a resource speaker for numerous security conferences around the globe. He is the JampaSec Security Conference and the OWASP Paraiba Chapter founder, and a member of the CNCF Security TAG team.
       TrainerId: trainer002
-  Title: AppSec - Secure Coding and DevSecOps (ASCD)
+  Title: AppSec - Secure Coding and DevSecOps (ASCD) (3-day trainging course)
   URL: https://www.eventbrite.com/e/global-appsec-us-2021-virtual-training-tickets-188589806187
   SectionId: sku_ASCD
   Description: >-
       The AppSec: Secure Coding and DevSecOps (ASCD) course introduces fundamental concepts about the best practices of secure development and security automation within a development process.Every day, new flaws are discovered in several systems, be it a web or mobile application, a custom software, or a third-party component used by an application. For a long time and even today, it is possible to come across the web or mobile applications designed with weaknesses in their development process.In this training, we will cover basic secure development techniques. Students will understand application security vulnerabilities, including the OWASP Top 10 list, and learn strategies to defend against them using proactive, secure development controls. Several topics will be covered, such as HTTP Protocol, Application Security, Secure Development Cycle (SDL), OWASP and its various projects and tools, Application Security Testing such as DAST, SAST, and SCA, DevOps, and DevSecOps, among others.
+- Type: Training
+  Trainers:
+    - Name: Anirudh Anand
+      Email: anirudh@7asecurity.com
+      Image: /assets/images/trainers/AnirudhAnand.jpg
+      Twitter: a0xnirudh
+      Biography: Anirudh Anand is a security engineer with a primary focus on Web and Mobile Application Security. He is currently working as a Lead Security Engineer at CRED and also Security Trainer at 7asecurity. He has been submitting bugs and contributing to security tools for over 8 years. In his free time, he participates in CTF competitions along with Team bi0s (#1 security team in India according to CTFtime). His bounties involve vulnerabilities in Google, Microsoft, LinkedIn, Zendesk, Sendgrid, Gitlab, Gratipay and Flipboard.
+Anirudh is an open source enthusiast and has contributed to several OWASP projects with notable contributions being in OWTF and Hackademic Challenges Project. He has presented/trained in a multitude of conferences including BlackHat US 2021, 44con London, Appsec NZ, Hackfest Canada, c0c0n, Nullcon, Offzone Moscow, HITB et
+  TrainerId: trainer003
+  Title: Hacking Modern Web apps: Master the Future of Attack Vectors (2-day trainging course)
+  URL: https://www.eventbrite.com/e/global-appsec-us-2021-virtual-training-tickets-188589806187
+  SectionId: sku_HMWAMTFOAV
+  Description: >-
+    This course is the culmination of years of experience gained via practical penetration testing of Modern Web applications as well as countless hours spent doing research. We have structured this course around the OWASP Security Testing Guide, it covers the OWASP Top Ten and specific attack vectors against Modern Web apps. This course provides participants with actionable skills that can be applied immediately from day 1.
+Please note our courses are 100% hands-on, we do not lecture students with boring bullet points and theories, instead we give you practical challenges and help you solve them, teaching you how to troubleshoot common issues and get the most out of this training. Training then continues after the course through our frequently updated training portal, for which you keep lifetime access, as well as unlimited email support. Light on the theory, heavy on the practice, each day starts from the basics but quickly complicates things to uncover fun attacks and edge cases that will surprise many. Each day covers static analysis, dynamic checks and finishes off with a nice CTF session to test the skills gained.
+Day 1 Focused specifically on Hacking Modern Web Apps. We start with understanding Modern Web Apps and then deep dive into static and dynamic analysis of the applications at hand. This day is packed with hands-on exercises and CTF-style challenges.
+Day 2 Dedicated to Advanced Modern Web App Attacks. We cover advanced attacks specifically targeting the Modern Web App and other platforms such as dumping memory, prototype pollution, deserialization attacks, OAuth, JWT flaws and more. The day is full of hands-on exercises and ends with CTF-style open challenges for additional practice.
