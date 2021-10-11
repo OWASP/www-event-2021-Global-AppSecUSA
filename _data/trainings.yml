@@ -5,7 +5,7 @@
       Image: /assets/images/trainers/BenSadeghipour.png
       Twitter: NahamSec
       Biography: Ben is the Head of Hacker Education at HackerOne by day, and a hacker and content creator by night. He has helped identify over 700 security vulnerabilities across hundreds of web and mobile applications for companies such as Verizon Media, Red Bull, Apple, Airbnb, Snapchat, The US Department of Defense, Lyft, and more. One of the world’s top ethical hackers, he has invested time back into the security community by creating a community of 1000+ active hackers and hosting international conferences dedicated to hacker education and collaboration. He has also held free workshops and trainings to teach others about security and web application hacking.
-      TrainerId: trainer_train
+      TrainerId: trainer001
       #-Name: Trainer Dos
       #Email: tainer.dos@owasp.org
       #Image: /assets/images/trainers/staff_harold.jpg
@@ -16,7 +16,7 @@
       #TrainerId: trainer_dos
   Title: Introduction to Web Application Hacking & Bug Bounty
   URL: https://www.eventbrite.com/e/global-appsec-us-2021-virtual-training-tickets-188589806187
-  SectionId: sku_sisisis
+  SectionId: sku_IWAHBB
   Description: >-
       This class is based on case studies of real life web application vulnerabilities. Participants are given a hands-on experience by learning each vulnerability category and completing a series of challenges at the end of each day. Participants will also get an in depth understanding of reconnaissance and automation process which will enable them to increase their attack surface in order to find more vulnerabilities. This course comes with challenges to learn the basics of each vulnerability as well as a mock infrastructure/organization to provide a real world scenario on how to approach a target and look for different vulnerabilities.
 - Type: Training
@@ -26,9 +26,9 @@
       Image: /assets/images/trainers/MagnoLogan.jpeg
       Twitter: magnologan
       Biography: Magno Logan works as an Information Security Specialist for Trend Micro. He specializes in Cloud, Container, and Application Security Research, Threat Modelling, and Red Teaming. In addition, he has been tapped as a resource speaker for numerous security conferences around the globe. He is the JampaSec Security Conference and the OWASP Paraiba Chapter founder, and a member of the CNCF Security TAG team.
-      TrainerId: trainer_train
+      TrainerId: trainer002
   Title: AppSec - Secure Coding and DevSecOps (ASCD)
   URL: https://www.eventbrite.com/e/global-appsec-us-2021-virtual-training-tickets-188589806187
-  SectionId: sku_sisisis
+  SectionId: sku_ASCD
   Description: >-
       The AppSec: Secure Coding and DevSecOps (ASCD) course introduces fundamental concepts about the best practices of secure development and security automation within a development process.Every day, new flaws are discovered in several systems, be it a web or mobile application, a custom software, or a third-party component used by an application. For a long time and even today, it is possible to come across the web or mobile applications designed with weaknesses in their development process.In this training, we will cover basic secure development techniques. Students will understand application security vulnerabilities, including the OWASP Top 10 list, and learn strategies to defend against them using proactive, secure development controls. Several topics will be covered, such as HTTP Protocol, Application Security, Secure Development Cycle (SDL), OWASP and its various projects and tools, Application Security Testing such as DAST, SAST, and SCA, DevOps, and DevSecOps, among others.
