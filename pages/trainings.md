@@ -10,6 +10,9 @@ permalink: /trainings/
 <br>
 
 **Training subject to change based on trainer availability.**
+3-day Training courses will run November 8-10
+2-day Training courses will run November 9-10
+1-day Training courses will run November 10 **with the exception of "Threat Modeling: A Master Class" which will be held on Nov. 9.**
 {% if site.data.trainings.size > 0 %}
 {% assign trainings = site.data.trainings | sort: 'Title' %}
 {% for trainer in trainings %}
