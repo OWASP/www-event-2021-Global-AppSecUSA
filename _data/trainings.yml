@@ -147,7 +147,7 @@
       Image: /assets/images/trainers/JohnDiLeo.jpeg
       Twitter: gr4ybeard
       Biography: Dr. John DiLeo is the Auckland-area leader of the OWASP New Zealand Chapter. He's currently leading the Software Assurance advisory practice at Datacom New Zealand, providing support and guidance to clients in launching, managing, and maturing their enterprise software assurance programs. Before moving to application security, John was active as a Java enterprise architect and Web application developer. In an earlier life, John developed discrete-event simulations of large distributed systems, in a variety of languages - including the Java-based language (FreeSML) he developed as part of his doctoral research. John is on the core team for the OWASP Software Assurance Maturity Model (SAMM) Project, and is active on the OWASP Education and Training Committee.
-  TrainerId: trainer008
+      TrainerId: trainer008
   Title: "Threat Modeling: From None to Done (1-day training course)"
   URL: https://www.eventbrite.com/e/global-appsec-us-2021-virtual-training-tickets-188589806187
   SectionId: sku_TMFNTD
