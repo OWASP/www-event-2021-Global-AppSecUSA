@@ -4,7 +4,11 @@
       Email: ben@sadeghipour.net
       Image: /assets/images/trainers/BenSadeghipour.png
       Twitter: NahamSec
-      Biography: Ben is the Head of Hacker Education at HackerOne by day, and a hacker and content creator by night. He has helped identify over 700 security vulnerabilities across hundreds of web and mobile applications for companies such as Verizon Media, Red Bull, Apple, Airbnb, Snapchat, The US Department of Defense, Lyft, and more. One of the world’s top ethical hackers, he has invested time back into the security community by creating a community of 1000+ active hackers and hosting international conferences dedicated to hacker education and collaboration. He has also held free workshops and trainings to teach others about security and web application hacking.
+      Biography: >-
+          Ben is the Head of Hacker Education at HackerOne by day, and a hacker and content creator by night. He has helped identify over 700 security vulnerabilities across hundreds of web and mobile applications for 
+          companies such as Verizon Media, Red Bull, Apple, Airbnb, Snapchat, The US Department of Defense, Lyft, and more. One of the world’s top ethical hackers, he has invested time back into the security community 
+          by creating a community of 1000+ active hackers and hosting international conferences dedicated to hacker education and collaboration. He has also held free workshops and trainings to teach others about security 
+          and web application hacking.
       TrainerId: trainer001
       #-Name: Trainer Dos
       #Email: tainer.dos@owasp.org
@@ -18,7 +22,9 @@
   URL: https://www.eventbrite.com/e/global-appsec-us-2021-virtual-training-tickets-188589806187
   SectionId: sku_IWAHBB
   Description: >-
-      This class is based on case studies of real life web application vulnerabilities. Participants are given a hands-on experience by learning each vulnerability category and completing a series of challenges at the end of each day. Participants will also get an in depth understanding of reconnaissance and automation process which will enable them to increase their attack surface in order to find more vulnerabilities. This course comes with challenges to learn the basics of each vulnerability as well as a mock infrastructure/organization to provide a real world scenario on how to approach a target and look for different vulnerabilities.
+      This class is based on case studies of real life web application vulnerabilities. Participants are given a hands-on experience by learning each vulnerability category and completing a series of challenges at the end of each day. 
+      Participants will also get an in depth understanding of reconnaissance and automation process which will enable them to increase their attack surface in order to find more vulnerabilities. This course comes with challenges to learn 
+      the basics of each vulnerability as well as a mock infrastructure/organization to provide a real world scenario on how to approach a target and look for different vulnerabilities.
 - Type: Training
   Trainers:
     - Name: Magno Logan
@@ -43,33 +49,52 @@
       Email: anirudh@7asecurity.com
       Image: /assets/images/trainers/AnirudhAnand.jpg
       Twitter: a0xnirudh
-      Biography: Anirudh Anand is a security engineer with a primary focus on Web and Mobile Application Security. He is currently working as a Lead Security Engineer at CRED and also Security Trainer at 7asecurity. He has been submitting bugs and contributing to security tools for over 8 years. In his free time, he participates in CTF competitions along with Team bi0s (#1 security team in India according to CTFtime). His bounties involve vulnerabilities in Google, Microsoft, LinkedIn, Zendesk, Sendgrid, Gitlab, Gratipay and Flipboard. Anirudh is an open source enthusiast and has contributed to several OWASP projects with notable contributions being in OWTF and Hackademic Challenges Project. He has presented/trained in a multitude of conferences including BlackHat US 2021, 44con London, Appsec NZ, Hackfest Canada, c0c0n, Nullcon, Offzone Moscow, HITB etc.
+      Biography: >-
+          Anirudh Anand is a security engineer with a primary focus on Web and Mobile Application Security. He is currently working as a Lead Security Engineer at CRED and also Security Trainer at 7asecurity. He has been submitting bugs and contributing to security tools for over 8 years. 
+          In his free time, he participates in CTF competitions along with Team bi0s (#1 security team in India according to CTFtime). His bounties involve vulnerabilities in Google, Microsoft, LinkedIn, Zendesk, Sendgrid, Gitlab, Gratipay and Flipboard. Anirudh is an open source enthusiast 
+          and has contributed to several OWASP projects with notable contributions being in OWTF and Hackademic Challenges Project. He has presented/trained in a multitude of conferences including BlackHat US 2021, 44con London, Appsec NZ, Hackfest Canada, c0c0n, Nullcon, Offzone Moscow, HITB etc.
       TrainerId: trainer003
   Title: Hacking Modern Web apps - Master the Future of Attack Vectors (2-day trainging course)
   URL: https://www.eventbrite.com/e/global-appsec-us-2021-virtual-training-tickets-188589806187
   SectionId: sku_HMWAMTFOAV
   Description: >-
-    This course is the culmination of years of experience gained via practical penetration testing of Modern Web applications as well as countless hours spent doing research. We have structured this course around the OWASP Security Testing Guide, it covers the OWASP Top Ten and specific attack vectors against Modern Web apps. This course provides participants with actionable skills that can be applied immediately from day 1. Please note our courses are 100% hands-on, we do not lecture students with boring bullet points and theories, instead we give you practical challenges and help you solve them, teaching you how to troubleshoot common issues and get the most out of this training. Training then continues after the course through our frequently updated training portal, for which you keep lifetime access, as well as unlimited email support. Light on the theory, heavy on the practice, each day starts from the basics but quickly complicates things to uncover fun attacks and edge cases that will surprise many. Each day covers static analysis, dynamic checks and finishes off with a nice CTF session to test the skills gained. *Day 1* Focused specifically on Hacking Modern Web Apps. We start with understanding Modern Web Apps and then deep dive into static and dynamic analysis of the applications at hand. This day is packed with hands-on exercises and CTF-style challenges. *Day 2* Dedicated to Advanced Modern Web App Attacks. We cover advanced attacks specifically targeting the Modern Web App and other platforms such as dumping memory, prototype pollution, deserialization attacks, OAuth, JWT flaws and more. The day is full of hands-on exercises and ends with CTF-style open challenges for additional practice.
+    This course is the culmination of years of experience gained via practical penetration testing of Modern Web applications as well as countless hours spent doing research. We have structured this course around the OWASP Security Testing Guide, it covers the OWASP Top Ten 
+    and specific attack vectors against Modern Web apps. This course provides participants with actionable skills that can be applied immediately from day 1. Please note our courses are 100% hands-on, we do not lecture students with boring bullet points and theories, instead 
+    we give you practical challenges and help you solve them, teaching you how to troubleshoot common issues and get the most out of this training. Training then continues after the course through our frequently updated training portal, for which you keep lifetime access, as 
+    well as unlimited email support. Light on the theory, heavy on the practice, each day starts from the basics but quickly complicates things to uncover fun attacks and edge cases that will surprise many. Each day covers static analysis, dynamic checks and finishes off with 
+    a nice CTF session to test the skills gained. *Day 1* Focused specifically on Hacking Modern Web Apps. We start with understanding Modern Web Apps and then deep dive into static and dynamic analysis of the applications at hand. This day is packed with hands-on exercises 
+    and CTF-style challenges. *Day 2* Dedicated to Advanced Modern Web App Attacks. We cover advanced attacks specifically targeting the Modern Web App and other platforms such as dumping memory, prototype pollution, deserialization attacks, OAuth, JWT flaws and more. The day 
+    is full of hands-on exercises and ends with CTF-style open challenges for additional practice.
 - Type: Training
   Trainers:
     - Name: Nithin Jois
       Email: nithin.jois@we45.com
       Image: /assets/images/trainers/NithinJois.jpeg
       Twitter: bondijois
-      Biography: Nithin Jois dons two hats - Apart from being one of the lead trainers at AppSecEngineer, he is also a Senior Solutions Architect at We45 where he has helped build multiple solutions ranging from Vulnerability management to scalable scanner orchestrating systems that leveraged container technology to  the hilt! Nithin also managed DevOps and deployments for some of these solutions, and for multiple clients, which gave him a lot of exposure to the cloud and helped understand multiple issues that are often faced in production and was involved in fixing some of those issues as well. Since 2018, Nithin has mostly been involved with research, development and building solutions around the training offerings and consults with organizations to help them implement DevSecOps successfully. Nithin has been a trainer and speaker at multiple industry-leading events including and not limited to OWASP Global AppSecUS, OWASP AppSecCali, CodeBlue Japan, SHACK aka. WhiskyCon and BlackHat-US/EU to name a few.
+      Biography: >-
+          Nithin Jois dons two hats - Apart from being one of the lead trainers at AppSecEngineer, he is also a Senior Solutions Architect at We45 where he has helped build multiple solutions ranging from Vulnerability management to scalable scanner orchestrating systems 
+          that leveraged container technology to  the hilt! Nithin also managed DevOps and deployments for some of these solutions, and for multiple clients, which gave him a lot of exposure to the cloud and helped understand multiple issues that are often faced in production 
+          and was involved in fixing some of those issues as well. Since 2018, Nithin has mostly been involved with research, development and building solutions around the training offerings and consults with organizations to help them implement DevSecOps successfully. Nithin 
+          has been a trainer and speaker at multiple industry-leading events including and not limited to OWASP Global AppSecUS, OWASP AppSecCali, CodeBlue Japan, SHACK aka. WhiskyCon and BlackHat-US/EU to name a few.
       TrainerId: trainer004
   Title: Kubernetes Security Masterclass (2-day trainging course)
   URL: https://www.eventbrite.com/e/global-appsec-us-2021-virtual-training-tickets-188589806187
   SectionId: sku_KSM
   Description: >-
-      Kubernetes has emerged as the leading container orchestration and management platform for on-prem and cloud environments. However, Kubernetes is a multi-headed beast with several minute and nuanced security configuration parameters. In addition, attackers take advantage of these insecurely configured and designed Kubernetes deployments and perform deep-incursions into the organization’s assets. This training is a hard-core hands-on view of Kubernetes Security from an Attack and Defense perspective. The course takes the participants through a journey where they start with setting up a Kubernetes cluster (simulating an on-prem Kubernetes) deployment, attack the cluster and learn, through multiple deep-dive examples and cookbooks on how they can effectively secure Kubernetes clusters. The course is aimed at providing a view of attacking, auditing and defending Kubernetes clusters on-prem or on the cloud
+      Kubernetes has emerged as the leading container orchestration and management platform for on-prem and cloud environments. However, Kubernetes is a multi-headed beast with several minute and nuanced security configuration parameters. In addition, attackers take 
+      advantage of these insecurely configured and designed Kubernetes deployments and perform deep-incursions into the organization’s assets. This training is a hard-core hands-on view of Kubernetes Security from an Attack and Defense perspective. The course takes the 
+      participants through a journey where they start with setting up a Kubernetes cluster (simulating an on-prem Kubernetes) deployment, attack the cluster and learn, through multiple deep-dive examples and cookbooks on how they can effectively secure Kubernetes clusters. 
+      The course is aimed at providing a view of attacking, auditing and defending Kubernetes clusters on-prem or on the cloud
 - Type: Training
   Trainers:
     - Name: Steven Wierckx
       Email: steven.wierckx@toreon.com
       Image: /assets/images/trainers/StevenWierckx.jpg
       Twitter: ihackforfun
-      Biography: Steven Wierckx is a software and security tester with 15 years of experience in programming, security testing, source code review, test automation, functional and technical analysis, development, and database design, Steven shares his passion for web application security through writing and training on testing software for security problems, secure coding, security awareness, security testing, and threat modeling. He is the project leader for the OWASP Threat Modeling Project and organizes the BruCON student CTF. Last year, he spoke at Hack in the Box Amsterdam, hosted a workshop at BruCON and delivered threat modeling trainings at OWASP AppSec USA and O’Reilly Security New York.
+      Biography: >-
+          Steven Wierckx is a software and security tester with 15 years of experience in programming, security testing, source code review, test automation, functional and technical analysis, development, and database design, Steven shares his passion for web application 
+          security through writing and training on testing software for security problems, secure coding, security awareness, security testing, and threat modeling. He is the project leader for the OWASP Threat Modeling Project and organizes the BruCON student CTF. Last 
+          year, he spoke at Hack in the Box Amsterdam, hosted a workshop at BruCON and delivered threat modeling trainings at OWASP AppSec USA and O’Reilly Security New York.
       TrainerId: trainer005
   Title: Advanced Whiteboard hacking – aka hands-on Threat Modeling (2-day training course)
   URL: https://www.eventbrite.com/e/global-appsec-us-2021-virtual-training-tickets-188589806187
@@ -78,18 +103,18 @@
     This is the latest edition of our threat modeling trainings released at Black Hat USA 2021, with a new threat modeling war game with red and blue threat modeling teams. Engaged in capture the flag style threat modeling challenges your team will battle for control over an offshore wind turbine park. Based on our experience in securing real-world Operational Technology (OT) infrastructure.
     Also, in this edition we enhanced the sections on agile and DevOps threat modeling, threat modeling and compliance, added a section on "threat modeling at scale" and all participants get our Threat Modeling Playbook plus one-year access to our online threat modeling training subscription.
     As highly skilled professionals, we know that there is a gap between academic knowledge of threat modeling and the real world. To minimize that gap, we developed practical Use Cases, based on real-life projects. Each use case includes a description of the environment, together with questions and templates to build a threat model. Using this methodology for the hands-on workshops we provide our students with a robust training experience and the templates to incorporate threat modeling best practices in their daily work.
-    Students will be challenged in groups of 3 to 4 people to perform the different stages of threat modeling on the following
-    • Threat modeling an IoT gateway with a cloud-based update service
-    • Get into the defender's head – modeling points of attack against a nuclear facility
-    • Threat mitigations of OAuth scenarios for an HR application
-    • Privacy analysis of a new face recognition system in an airport
-    • Battle for control over "Zwarte Wind", an offshore wind turbine park
+    Students will be challenged in groups of 3 to 4 people to perform the different stages of threat modeling on the following<br>
+    • Threat modeling an IoT gateway with a cloud-based update service<br>
+    • Get into the defender's head – modeling points of attack against a nuclear facility<br>
+    • Threat mitigations of OAuth scenarios for an HR application<br>
+    • Privacy analysis of a new face recognition system in an airport<br>
+    • Battle for control over "Zwarte Wind", an offshore wind turbine park<br>
     After each hands-on workshop, the results are discussed, and students receive a documented solution. Based on our successful trainings in the last years and the great and positive feedback, we released this updated advanced threat modeling training at Black Hat USA 2021.
-    Some feedback from our Black Hat training attendees
-    • “Sebastien delivered! One of the best workshop instructor's I've ever had.”
-    • “Very nice training course, one of the best I ever attended.”
-    • “I feel that this course is one of the most important courses to be taken by a security professional.”
-    • “The group hands-on practical exercises truly helped.”
+    Some feedback from our Black Hat training attendees<br>
+    • “Sebastien delivered! One of the best workshop instructor's I've ever had.”<br>
+    • “Very nice training course, one of the best I ever attended.”<br>
+    • “I feel that this course is one of the most important courses to be taken by a security professional.”<br>
+    • “The group hands-on practical exercises truly helped.”<br>
     • “hands-on labs are very well designed, and the solutions are also very smart!”
 - Type: Training
   Trainers:
@@ -160,13 +185,19 @@
       Image: /assets/images/trainers/adam-shostack3.jpeg
       Twitter: adamshostack
       Biography: >-
-          "Adam is a leading expert on threat modeling, and a consultant, entrepreneur, technologist, author and game designer. He's a member of the BlackHat Review Board, and helped create the CVE and many other things. He currently helps many organizations improve their security via Shostack & Associates, and helps startups become great businesses as an advisor and mentor. While at Microsoft, he drove the Autorun fix into Windows Update, was the lead designer of the SDL Threat Modeling Tool v3 and created the 'Elevation of Privilege' game. Adam is the author of Threat Modeling: Designing for Security, and the co-author of The New School of Information Security."
+          Adam is a leading expert on threat modeling, and a consultant, entrepreneur, technologist, author and game designer. He's a member of the BlackHat Review Board, and helped create the CVE and many 
+          other things. He currently helps many organizations improve their security via Shostack & Associates, and helps startups become great businesses as an advisor and mentor. While at Microsoft, he drove 
+          the Autorun fix into Windows Update, was the lead designer of the SDL Threat Modeling Tool v3 and created the 'Elevation of Privilege' game. Adam is the author of Threat Modeling: Designing for Security, 
+          and the co-author of The New School of Information Security.
       TrainerID: trainer009
   Title: "Threat Modeling: A Master Class (1-day training course held on November 9)"
   URL: https://www.eventbrite.com/e/global-appsec-us-2021-virtual-training-tickets-188589806187
   SectionId: sku_TMAMC
   Description: >-
-      "This advanced course in threat modeling is designed to give skilled practitioners a chance to hone and enhance their already existing skills with one of the leading thinkers on the subject.<br> The course will be a mix of the three Jenga block types: technical, organizational and interpersonal, and include specifics based on student requests. The course will include both exercises, critiques and a seminar portion. Students will be offered the chance to bring a real, anonymized model for critiques. Students who are familiar with multiple techniques for threat modeling will do best. (For example, DFDs and state machines; STRIDE, kill chains and attack trees.)"
+      This advanced course in threat modeling is designed to give skilled practitioners a chance to hone and enhance their already existing skills with one of the leading thinkers on the subject.<br> The course 
+      will be a mix of the three Jenga block types: technical, organizational and interpersonal, and include specifics based on student requests. The course will include both exercises, critiques and a seminar portion. 
+      Students will be offered the chance to bring a real, anonymized model for critiques. Students who are familiar with multiple techniques for threat modeling will do best. (For example, DFDs and state machines; STRIDE, 
+      kill chains and attack trees.)
 - Type: Training
   Trainers:
     - Name: Adam Shostack
@@ -174,9 +205,11 @@
       Image: /assets/images/trainers/adam-shostack3.jpeg
       Twitter: adamshostack
       Biography: >-
-          "Adam is a leading expert on threat modeling, and a consultant, entrepreneur, technologist, author and game designer. He's a member of the BlackHat Review Board, and helped create the CVE and many other things. He currently helps many organizations improve their security via Shostack & Associates, and helps startups become great businesses as an advisor and mentor. While at Microsoft, he drove the Autorun fix into Windows Update, was the lead designer of the SDL Threat Modeling Tool v3 and created the 'Elevation of Privilege' game. Adam is the author of Threat Modeling: Designing for Security, and the co-author of The New School of Information Security."
+          Adam is a leading expert on threat modeling, and a consultant, entrepreneur, technologist, author and game designer. He's a member of the BlackHat Review Board, and helped create the CVE and many other things. He currently 
+          helps many organizations improve their security via Shostack & Associates, and helps startups become great businesses as an advisor and mentor. While at Microsoft, he drove the Autorun fix into Windows Update, was the lead 
+          designer of the SDL Threat Modeling Tool v3 and created the 'Elevation of Privilege' game. Adam is the author of Threat Modeling: Designing for Security, and the co-author of The New School of Information Security.
       TrainerID: trainer010
-  Title: "Introduction to Threat Modeling (1-day training course)"
+  Title: Introduction to Threat Modeling (1-day training course)
   URL: https://www.eventbrite.com/e/global-appsec-us-2021-virtual-training-tickets-188589806187   
   SectionId: sku_ITTM
   Description: >- 
