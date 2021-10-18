@@ -140,4 +140,16 @@
       and none of them can be found in any book just yet. Original techniques will be explained. Furthermore, most of the time will be used to construct 
       the pieces of your very own framework to accomplish web security assessments. Do not forget this will be a long session. It is recommended to bring 
       0xC0FFEE.
+- Type: Training
+  Trainers:
+    - Name: John DiLeo
+      Email: 	john.dileo@owasp.org
+      Image: /assets/images/trainers/JohnDiLeo.jpeg
+      Twitter: 	gr4ybeard
+      Biography: Dr. John DiLeo is the Auckland-area leader of the OWASP New Zealand Chapter. He's currently leading the Software Assurance advisory practice at Datacom New Zealand, providing support and guidance to clients in launching, managing, and maturing their enterprise software assurance programs. Before moving to application security, John was active as a Java enterprise architect and Web application developer. In an earlier life, John developed discrete-event simulations of large distributed systems, in a variety of languages - including the Java-based language (FreeSML) he developed as part of his doctoral research. John is on the core team for the OWASP Software Assurance Maturity Model (SAMM) Project, and is active on the OWASP Education and Training Committee.
+  TrainerId: trainer008
+  Title: "Threat Modeling: From None to Done (1-day training course)"
+  URL: https://www.eventbrite.com/e/global-appsec-us-2021-virtual-training-tickets-188589806187
+  SectionId: sku_TMFNTD
+  Description: >- This session offers participants an interactive introduction to Threat Modeling, based on the instructor's learning and experience over the past several years. A primary focus of this course is the introduction of threat modeling activities into your organization's software development processes, to improve the overall quality and security of the applications you build. As a "convert" to the application security world, your instructor has developed his "expertise" in threat modeling by gathering information from a variety of sources. He's combined those learnings with his own experience to create a practical threat modeling approach he has successfully applied within his professional roles. In addition to addressing key questions around the "Five Ws," the presentation will cover the "Seven Questions" approach (an expansion of Shostack's "Four Questions") to developing a model, and include several interactive exercises to provide direct experience. A brief review of available modeling tools will also be included, along with a discussion of the opportunities and challenges for introducing Threat Modeling into your SDLC.
 
