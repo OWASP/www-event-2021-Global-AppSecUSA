@@ -44,7 +44,7 @@
       Image: /assets/images/trainers/AnirudhAnand.jpg
       Twitter: a0xnirudh
       Biography: Anirudh Anand is a security engineer with a primary focus on Web and Mobile Application Security. He is currently working as a Lead Security Engineer at CRED and also Security Trainer at 7asecurity. He has been submitting bugs and contributing to security tools for over 8 years. In his free time, he participates in CTF competitions along with Team bi0s (#1 security team in India according to CTFtime). His bounties involve vulnerabilities in Google, Microsoft, LinkedIn, Zendesk, Sendgrid, Gitlab, Gratipay and Flipboard. Anirudh is an open source enthusiast and has contributed to several OWASP projects with notable contributions being in OWTF and Hackademic Challenges Project. He has presented/trained in a multitude of conferences including BlackHat US 2021, 44con London, Appsec NZ, Hackfest Canada, c0c0n, Nullcon, Offzone Moscow, HITB etc.
-  TrainerId: trainer003
+      TrainerId: trainer003
   Title: Hacking Modern Web apps - Master the Future of Attack Vectors (2-day trainging course)
   URL: https://www.eventbrite.com/e/global-appsec-us-2021-virtual-training-tickets-188589806187
   SectionId: sku_HMWAMTFOAV
@@ -57,7 +57,7 @@
       Image: /assets/images/trainers/NithinJois.jpeg
       Twitter: bondijois
       Biography: Nithin Jois dons two hats - Apart from being one of the lead trainers at AppSecEngineer, he is also a Senior Solutions Architect at We45 where he has helped build multiple solutions ranging from Vulnerability management to scalable scanner orchestrating systems that leveraged container technology to  the hilt! Nithin also managed DevOps and deployments for some of these solutions, and for multiple clients, which gave him a lot of exposure to the cloud and helped understand multiple issues that are often faced in production and was involved in fixing some of those issues as well. Since 2018, Nithin has mostly been involved with research, development and building solutions around the training offerings and consults with organizations to help them implement DevSecOps successfully. Nithin has been a trainer and speaker at multiple industry-leading events including and not limited to OWASP Global AppSecUS, OWASP AppSecCali, CodeBlue Japan, SHACK aka. WhiskyCon and BlackHat-US/EU to name a few.
-  TrainerId: trainer004
+      TrainerId: trainer004
   Title: Kubernetes Security Masterclass (2-day trainging course)
   URL: https://www.eventbrite.com/e/global-appsec-us-2021-virtual-training-tickets-188589806187
   SectionId: sku_KSM
@@ -70,7 +70,7 @@
       Image: /assets/images/trainers/StevenWierckx.jpg
       Twitter: ihackforfun
       Biography: Steven Wierckx is a software and security tester with 15 years of experience in programming, security testing, source code review, test automation, functional and technical analysis, development, and database design, Steven shares his passion for web application security through writing and training on testing software for security problems, secure coding, security awareness, security testing, and threat modeling. He is the project leader for the OWASP Threat Modeling Project and organizes the BruCON student CTF. Last year, he spoke at Hack in the Box Amsterdam, hosted a workshop at BruCON and delivered threat modeling trainings at OWASP AppSec USA and O’Reilly Security New York.
-  TrainerId: trainer005
+      TrainerId: trainer005
   Title: Advanced Whiteboard hacking – aka hands-on Threat Modeling (2-day training course)
   URL: https://www.eventbrite.com/e/global-appsec-us-2021-virtual-training-tickets-188589806187
   SectionId: sku_AWH
@@ -104,7 +104,7 @@
           the space of browser fingerprinting, with more than 10 years of experience in detecting and defending against unwanted fingerprinting. His seminal 
           work titled 'Cookieless monster - Exploring the ecosystem of web-based device fingerprinting'  was the first study of the adoption of fingerprinting 
           the wild and has been cited more than 500 times. All his work can be found on his [website](https://securitee.org)
-  TrainerId: trainer006
+      TrainerId: trainer006
   Title: Browser Fingerprinting - Past, Present, and Future (1-day training course)
   URL: https://www.eventbrite.com/e/global-appsec-us-2021-virtual-training-tickets-188589806187
   SectionId: sku_BFPPF
@@ -117,7 +117,7 @@
       Image: /assets/images/trainers/RubenVentura.jpeg
       Twitter: tr3w_
       Biography: Ruben Ventura got involved in the fields of hacking and information security over 18 years ago. He has worked performing diverse security information services internationally for governments, law-enforcement agencies , many firms and a financial institution. He has been invited to speak at many international conferences such as Hack in Paris, Hackfest Quebec, BSides Philly, DragonJar Colombia, GreHack among many others. His interests include reverse engineering, music production, theoretical physics, molecular biology, psychology, meditation, lifting weights and coffee.
-  TrainerId: trainer007
+      TrainerId: trainer007
   Title: "Snakes Crawling On The Web: Finding Security Vulnerabilities With Python (1-day training course)"
   URL: https://www.eventbrite.com/e/global-appsec-us-2021-virtual-training-tickets-188589806187
   SectionId: sku_SCOTW
