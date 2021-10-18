@@ -163,8 +163,7 @@
    Title: "Threat Modeling: A Master Class (1-day training course held on November 9)"
    URL: https://www.eventbrite.com/e/global-appsec-us-2021-virtual-training-tickets-188589806187
    SectionId: sku_TMAMC
-   Description: >- This advanced course in threat modeling is designed to give skilled practitioners a chance to hone and enhance their already existing skills        with one of the leading thinkers on the subject.<br>
-   The course will be a mix of the three Jenga block types: technical, organizational and interpersonal, and include specifics based on student requests. The          course will include both exercises, critiques and a seminar portion. Students will be offered the chance to bring a real, anonymized model for critiques.          Students who are familiar with multiple techniques for threat modeling will do best. (For example, DFDs and state machines; STRIDE, kill chains and attack          trees.)
+   Description: >- This advanced course in threat modeling is designed to give skilled practitioners a chance to hone and enhance their already existing skills        with one of the leading thinkers on the subject.<br>The course will be a mix of the three Jenga block types: technical, organizational and interpersonal, and      include specifics based on student requests. The course will include both exercises, critiques and a seminar portion. Students will be offered the chance to        bring a real, anonymized model for critiques. Students who are familiar with multiple techniques for threat modeling will do best. (For example, DFDs and state    machines; STRIDE, kill chains and attack trees.)
 - Type: Training
   Trainers:
     - Name: Adam Shostack
@@ -176,5 +175,5 @@
    Title: "Introduction to Threat Modeling (1-day training course)"
    URL: https://www.eventbrite.com/e/global-appsec-us-2021-virtual-training-tickets-188589806187
    SectionId: sku_ITTM
-   Description: >- This hands-on introductory course in threat modeling is designed to bring students from no formal threat modeling knowledge to being able to        provide structured, systematic, and comprehensive analysis of new or existing technology designs.<br>
+   Description: >- This hands-on introductory course in threat modeling is designed to bring students from no formal threat modeling knowledge to being able to        provide structured, systematic, and comprehensive analysis of new or existing technology designs.
   
