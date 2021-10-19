@@ -108,7 +108,7 @@
       
       ### Outline:
       
-      #### MODULE 101
+      ### MODULE 101
         - 1. Introduction
         - 1.1 Basic Security Concepts
         - 1.2 HTTP protocol
@@ -124,17 +124,17 @@
           - Symmetric and Asymmetric Cryptography
           - Vulnerabilities
 
-      #### MODULE 201
+      ### MODULE 201
         - 2. Application Security
           - What is application security?
           - Challenges of Securing Applications
           - Software Security Status
-        - 2.2 Safe Development Cycle (SDL)
+        - 2.1 Safe Development Cycle (SDL)
           - SDL Definition
           - SDL Timeline
           - The 12 Practices of the SDL
 
-      #### MODULE 301
+      ### MODULE 301
         - 3. OWASP
         - 3.1 What is OWASP?
           - OWASP Foundation
@@ -167,7 +167,7 @@
         - 3.4 OWASP API Security 2019
         - 3.5 Good Practices of Secure Development
 
-      #### MODULE 401
+      ### MODULE 401
         - 4. Application Security Testing
         - 4.1 Security Testing Methodologies
           - DAST
