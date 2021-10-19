@@ -34,48 +34,48 @@
           <br>
           Lab
           <br>
-           Day 2
-           Topic 1
-           Local file inclusion
-           Path Traversal
-           Break
-           <br>
-           Topic 2
-           Server-Side Request Forgery (SSRF)
-           Port Scan
-           File Read
-           Privilege Escalation
-           Abusing redirection for exploitation
-           Break
-           <br>
-           Topic 3
-           Arbitrary file upload
-           Unvalidated PHP upload
-           Path traversal to root
-           RCE in filename
-           XSS
-           Break
-           <br>
-           Lab
-           <br>
-           Day 3
-           Topic 1
-           SQL Injection
-           SQL Injection with output
-           Blind SQL Injection
-           SQL Injection by turing the parameter into an array
-           Break
-           <br>
-           Topic 2
-           Recon
-           Recon process
-           IP Ranges
-           Subdomains discovery
-           Directory/File discovery
-           Default or weak credentials
-           Component with known vulnerabilities
-           Break
-           Lab
+          Day 2
+          Topic 1
+          Local file inclusion
+          Path Traversal
+          Break
+          <br>
+          Topic 2
+          Server-Side Request Forgery (SSRF)
+          Port Scan
+          File Read
+          Privilege Escalation
+          Abusing redirection for exploitation           
+          Break
+          <br>
+          Topic 3
+          Arbitrary file upload
+          Unvalidated PHP upload
+          Path traversal to root
+          RCE in filename
+          XSS
+          Break
+          <br>
+          Lab
+          <br>
+          Day 3          
+          Topic 1
+          SQL Injection
+          SQL Injection with output
+          Blind SQL Injection
+          SQL Injection by turing the parameter into an array
+          Break
+          <br>
+          Topic 2
+          Recon
+          Recon process
+          IP Ranges
+          Subdomains discovery
+          Directory/File discovery
+          Default or weak credentials
+          Component with known vulnerabilities
+          Break
+          Lab
       TrainerId: trainer001
       #-Name: Trainer Dos
       #Email: tainer.dos@owasp.org
