@@ -33,3 +33,8 @@
   url: https://nonamesecurity.com
   backgroundSize: 125px
   type: Diamond
+- logo: /assets/images/sponsors/praetorianlogo.png
+  name: Praetorian
+  url: http://praetorian.com
+  backgroundSize: 125px
+  type: Diamond
