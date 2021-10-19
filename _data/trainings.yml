@@ -376,7 +376,6 @@
      My intention with this training is to guide web developers and security researchers through the convoluted world of browser fingerprinting, helping them understand what it is, how it has evolved over the last ten years, and how it can be used to protect web applications (but also abused to track users). Below, I split the training in terms of curriculum and in terms of hands-on activities.
 
   #### Curriculum
-
     - What is browser fingerprinting?
       - High-level definition
       - Differentiating fingerprinting from other tracking techniques, such as, cookies, evercookies, HSTS-based tracking, etc.
