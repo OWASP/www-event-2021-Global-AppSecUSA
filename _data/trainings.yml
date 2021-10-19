@@ -371,14 +371,15 @@
   SectionId: sku_BFPPF
   Description: >- 
      Browser fingerprinting refers to a website's ability to infer the exact makeup of a user's browsing environment and differentiate that user from other users without the use of cookies and other stateful identifiers. Constructively, browser fingerprinting has the potential to protect users and websites by detecting bots, and differentiating between benign users and attackers impersonating these users using stolen credentials. Destructively, browser fingerprinting can be used as an invasive way of tracking users across websites, even when users delete their cookies and use their browser's private mode. In this training, we will review the history of browser fingerprinting and see how it is different from traditional cookie-based user-identification techniques but also more intrusive stateful techniques, such as, evercookies and HSTS-based tracking. We will methodically investigate how browser fingerprinting works and what attributes can go into a browser fingerprint, ranging from JavaScript-based and browser-based properties, to attributes about the user's graphics card and even the TLS stack of their browser. We will understand how browser extensions can be fingerprinted and to what extent off-the-shelf tools that advertise anti-fingerprinting capabilities can really deliver on their promises. Next to learning about all modern browser-fingerprinting techniques, the participants will get an opportunity to actively learn via a number of hands-on activities that involve perusing the DOM of different browsers searching for browser-specific artifacts, understanding the architecture and operation of the most popular open-source fingerprinting library, observing how the TLS stacks of different browsers and web clients can be revealed through fingerprinting, and evaluate popular anti-fingerprinting tools. The participants of this training will be able to walk away with not just a concrete understanding of browser fingerprinting (and how they can avoid its unwanted variant as users on the web) but also with the knowledge to assess whether and how they can constructively use browser fingerprinting in the authentication and intrusion-detection components of their web applications.
-     Outline: >-
+     
+  ### Outline:
      My intention with this training is to guide web developers and security researchers through the convoluted world of browser fingerprinting, helping them understand what it is, how it has evolved over the last ten years, and how it can be used to protect web applications (but also abused to track users). Below, I split the training in terms of curriculum and in terms of hands-on activities.
 
-### Curriculum
+  #### Curriculum
 
- - What is browser fingerprinting?
-   - High-level definition
-   - Differentiating fingerprinting from other tracking techniques, such as, cookies, evercookies, HSTS-based tracking, etc.
+    - What is browser fingerprinting?
+      - High-level definition
+      - Differentiating fingerprinting from other tracking techniques, such as, cookies, evercookies, HSTS-based tracking, etc.
 - Type: Training
   Trainers:
     - Name: Ruben Ventura
