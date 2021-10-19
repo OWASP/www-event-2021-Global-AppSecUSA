@@ -38,3 +38,8 @@
   url: https://praetorian.com
   backgroundSize: 125px
   type: Diamond
+- logo: /assets/images/sponsors/whitesourcelogo.jpg
+  name: WhiteSource 
+  url: https://www.whitesourcesoftware.com
+  backgroundSize: 125px
+  type: Diamond
