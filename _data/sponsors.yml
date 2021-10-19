@@ -23,4 +23,8 @@
   url: https://iriusrisk.com
   backgroundSize: 125px
   type: Platinum
-  
+- logo: /assets/images/sponsors/fortify_logo_owasp.png
+  name: Fortify
+  url: https://www.microfocus.com/en-us/cyberres/application-security
+  backgroundSize: 125px
+  type: Diamond
