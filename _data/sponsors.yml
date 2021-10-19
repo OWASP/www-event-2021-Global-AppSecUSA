@@ -28,3 +28,8 @@
   url: https://www.microfocus.com/en-us/cyberres/application-security
   backgroundSize: 125px
   type: Diamond
+- logo: /assets/images/sponsors/noname_logo.png
+  name: NoName Security
+  url: https://nonamesecurity.com
+  backgroundSize: 125px
+  type: Diamond
