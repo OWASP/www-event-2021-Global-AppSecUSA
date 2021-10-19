@@ -8,7 +8,73 @@
           Ben is the Head of Hacker Education at HackerOne by day, and a hacker and content creator by night. He has helped identify over 700 security vulnerabilities across hundreds of web and mobile applications for 
           companies such as Verizon Media, Red Bull, Apple, Airbnb, Snapchat, The US Department of Defense, Lyft, and more. One of the world’s top ethical hackers, he has invested time back into the security community 
           by creating a community of 1000+ active hackers and hosting international conferences dedicated to hacker education and collaboration. He has also held free workshops and trainings to teach others about security 
-          and web application hacking.
+          and web application hacking.<br>
+          Outline: Day 1
+Topic 1
+Cross-Site Scripting (XSS)
+Reflected Cross-Site Scripting
+Stored Cross-Site Scripting
+Dom Cross-Site Scripting
+Angular Cross-Site Scripting
+Break
+
+Topic 2
+Cross Site Request forgery (CSRF)
+
+No CSRF token
+Reusable CSRF token
+Break
+
+Topic 3
+Insecure Direct Object References (IDOR)
+
+Incrementing IDs
+Weak encryption (B64)
+UUID from other vulnerabilities
+Break
+Lab
+
+
+Day 2
+Topic 1
+Local file inclusion
+Path Traversal
+Break
+Topic 2
+Server-Side Request Forgery (SSRF)
+Port Scan
+File Read
+Privilege Escalation
+Abusing redirection for exploitation
+Break
+Topic 3
+Arbitrary file upload
+Unvalidated PHP upload
+Path traversal to root
+RCE in filename
+XSS
+Break
+Lab
+
+
+Day 3
+Topic 1
+SQL Injection
+SQL Injection with output
+Blind SQL Injection
+SQL Injection by turing the parameter into an array
+Break
+
+Topic 2
+Recon
+Recon process
+IP Ranges
+Subdomains discovery
+Directory/File discovery
+Default or weak credentials
+Component with known vulnerabilities
+Break
+Lab
       TrainerId: trainer001
       #-Name: Trainer Dos
       #Email: tainer.dos@owasp.org
