@@ -43,3 +43,8 @@
   url: https://www.whitesourcesoftware.com
   backgroundSize: 125px
   type: Diamond
+- logo: /assets/images/sponsors/Checkpointlogo.png
+  name: CheckPoint
+  url: https://www.checkpoint.com
+  backgroundSize: 125px
+  type: Diamond
