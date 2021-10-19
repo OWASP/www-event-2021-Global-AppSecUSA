@@ -25,64 +25,64 @@
       This class is based on case studies of real life web application vulnerabilities. Participants are given a hands-on experience by learning each vulnerability category and completing a series of challenges at the end of each day. 
       Participants will also get an in depth understanding of reconnaissance and automation process which will enable them to increase their attack surface in order to find more vulnerabilities. This course comes with challenges to learn 
       the basics of each vulnerability as well as a mock infrastructure/organization to provide a real world scenario on how to approach a target and look for different vulnerabilities.<br>
-      Outline: <br>
-      &nbsp;&nbsp;&nbsp;&nbsp;1. Day 1<br>
-      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Topic 1<br>
-      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Cross-Site Scripting (XSS)<br>
-               - Reflected Cross-Site Scripting<br>
-               - Stored Cross-Site Scripting<br>
-               - Dom Cross-Site Scripting<br>
-               - Angular Cross-Site Scripting<br>
-               - Break<br>
-             - Topic 2<br>
-               - Cross Site Request forgery (CSRF)<br>
-               - No CSRF token<br>
-               - Reusable CSRF token<br>
-               - Break<br>
-             - Topic 3<br>
-               - Insecure Direct Object References (IDOR)<br>
-               - Incrementing IDs<br>
-               - Weak encryption (B64)<br>
-               - UUID from other vulnerabilities<br>
-               - Break<br>
-               - Lab<br>
-          2. Day 2<br>
-             - Topic 1<br>
-               - Local file inclusion<br>
-               - Path Traversal<br>
-               - Break<br>
-             - Topic 2<br>
-               - Server-Side Request Forgery (SSRF)<br>
-               - Port Scan<br>
-               - File Read<br>
-               - Privilege Escalation<br>
-               - Abusing redirection for exploitation<br>
-               - Break<br>
-             - Topic 3<br>
-               - Arbitrary file upload<br>
-               - Unvalidated PHP upload<br>
-               - Path traversal to root<br>
-               - RCE in filename<br>
-               - XSS<br>
-               - Break<br>
-               - Lab<br>
-          3. Day 3<br>    
-             - Topic 1<br>
-               - SQL Injection<br>
-               - SQL Injection with output<br>
-               - Blind SQL Injection<br>
-               - SQL Injection by turing the parameter into an array<br>
-               - Break<br>
-             - Topic 2<br>
-               - Recon<br>
-               - Recon process<br>
-               - IP Ranges<br>
-               - Subdomains discovery<br>
-               - Directory/File discovery<br>
-               - Default or weak credentials<br>
-               - Component with known vulnerabilities<br>
-               - Break<br>
-               - Lab<br>
+      Outline: 
+          1. Day 1
+             - Topic 1
+               - Cross-Site Scripting (XSS)
+               - Reflected Cross-Site Scripting
+               - Stored Cross-Site Scripting
+               - Dom Cross-Site Scripting
+               - Angular Cross-Site Scripting
+               - Break
+             - Topic 2
+               - Cross Site Request forgery (CSRF)
+               - No CSRF token
+               - Reusable CSRF token
+               - Break
+             - Topic 3
+               - Insecure Direct Object References (IDOR)
+               - Incrementing IDs
+               - Weak encryption (B64)
+               - UUID from other vulnerabilities
+               - Break
+               - Lab
+          2. Day 2
+             - Topic 1
+               - Local file inclusion
+               - Path Traversal
+               - Break
+             - Topic 2
+               - Server-Side Request Forgery (SSRF)
+               - Port Scan
+               - File Read
+               - Privilege Escalation
+               - Abusing redirection for exploitation
+               - Break
+             - Topic 3
+               - Arbitrary file upload
+               - Unvalidated PHP upload
+               - Path traversal to root
+               - RCE in filename
+               - XSS
+               - Break
+               - Lab
+          3. Day 3    
+             - Topic 1
+               - SQL Injection
+               - SQL Injection with output
+               - Blind SQL Injection
+               - SQL Injection by turing the parameter into an array
+               - Break
+             - Topic 2
+               - Recon
+               - Recon process
+               - IP Ranges
+               - Subdomains discovery
+               - Directory/File discovery
+               - Default or weak credentials
+               - Component with known vulnerabilities
+               - Break
+               - Lab
 - Type: Training
   Trainers:
     - Name: Magno Logan
