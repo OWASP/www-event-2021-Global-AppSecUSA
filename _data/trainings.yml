@@ -105,90 +105,88 @@
       or a third-party component used by an application. For a long time and even today, it is possible to come across the web or mobile applications designed with weaknesses in their development process.In this training, we will cover basic secure development techniques. Students will understand application 
       security vulnerabilities, including the OWASP Top 10 list, and learn strategies to defend against them using proactive, secure development controls. Several topics will be covered, such as HTTP Protocol, Application Security, Secure Development Cycle (SDL), OWASP and its various projects and tools, 
       Application Security Testing such as DAST, SAST, and SCA, DevOps, and DevSecOps, among others.
-      Outline:
-      **MODULE 101**
+      
+      ### Outline:
+      
+      #### MODULE 101
+        - 1. Introduction
+        - 1.1 Basic Security Concepts
+        - 1.2 HTTP protocol
+          - Requests and Responses
+          - Request and Response Headers
+          - HTTP Methods
+          - GET x POST
+          - Other HTTP Methods
+          - Response Status Codes
+        - 1.3 Basic Application Concepts
+          - Cookies and Sessions
+          - Encoding, Hashing, and Encryption
+          - Symmetric and Asymmetric Cryptography
+          - Vulnerabilities
 
-      1. Introduction
-      1.1 Basic Security Concepts
-      1.2 HTTP protocol
-      Requests and Responses
-      Request and Response Headers
-      HTTP Methods
-      GET x POST
-      Other HTTP Methods
-      Response Status Codes
-      1.3 Basic Application Concepts
-      Cookies and Sessions
-      Encoding, Hashing, and Encryption
-      Symmetric and Asymmetric Cryptography
-      Vulnerabilities
+      #### MODULE 201
+        - 2. Application Security
+          - What is application security?
+          - Challenges of Securing Applications
+          - Software Security Status
+        - 2.2 Safe Development Cycle (SDL)
+          - SDL Definition
+          - SDL Timeline
+          - The 12 Practices of the SDL
 
-      MODULE 201
+      #### MODULE 301
+        - 3. OWASP
+        - 3.1 What is OWASP?
+          - OWASP Foundation
+          - Chapters
+          - Projects
+          - Events
+          - How to participate?
+        - 3.2 OWASP Top 10 2017
+          - Injection Failures
+          - Authentication Failures
+          - Sensitive Data Exposure
+          -  XML External Entities (XXE)
+          - Access Control Failures
+          - Security Configuration Failures
+          - Cross-Site Scripting (XSS)
+          - Unsafe Deserialization
+          - Use of Vulnerable Components
+          - Insufficient Logging and Monitoring
+        - 3.3 OWASP Top 10 Proactive Controls 2018
+          - Define Security Requirements
+          - Security Frameworks and Libraries
+          - Secure Database Access
+          - Encode and Sanitize Data
+          - Validate All Entries
+          - Implement Digital Identity
+          - Apply Access Controls
+          - Protect Data Everywhere
+          - Implement Logging and Security Monitoring
+          - Handle All Errors and Exceptions
+        - 3.4 OWASP API Security 2019
+        - 3.5 Good Practices of Secure Development
 
-      2. Application Security
-      What is application security?
-      Challenges of Securing Applications
-      Software Security Status
-      2.2 Safe Development Cycle (SDL)
-      SDL Definition
-      SDL Timeline
-      The 12 Practices of the SDL
-
-      MODULE 301
-
-      3. OWASP
-      3.1 What is OWASP?
-      OWASP Foundation
-      Chapters
-      Projects
-      Events
-      How to participate?
-      3.2 OWASP Top 10 2017
-      Injection Failures
-      Authentication Failures
-      Sensitive Data Exposure
-      XML External Entities (XXE)
-      Access Control Failures
-      Security Configuration Failures
-      Cross-Site Scripting (XSS)
-      Unsafe Deserialization
-      Use of Vulnerable Components
-      Insufficient Logging and Monitoring
-      3.3 OWASP Top 10 Proactive Controls 2018
-      Define Security Requirements
-      Security Frameworks and Libraries
-      Secure Database Access
-      Encode and Sanitize Data
-      Validate All Entries
-      Implement Digital Identity
-      Apply Access Controls
-      Protect Data Everywhere
-      Implement Logging and Security Monitoring
-      Handle All Errors and Exceptions
-      3.4 OWASP API Security 2019
-      3.5 Good Practices of Secure Development
-
-      MODULE 401
-
-      4. Application Security Testing
-      4.1 Security Testing Methodologies
-      DAST
-      SAST
-      SCA
-      IAST
-      RASP
-      5. DevOps & DevSecOps
-      DevOps Principles
-      DevSecOps Practices
-      5.2 SAST in CI/CD
-      HuskyCI
-      HoruSec
-      SonarQube
-      5.3 DAST in CI/CD
-      OWASP ZAP
-      5.4 SCA on CI/CD
-      Dependency-Check
-      Snyk
+      #### MODULE 401
+        - 4. Application Security Testing
+        - 4.1 Security Testing Methodologies
+          - DAST
+          - SAST
+          - SCA
+          - IAST
+          - RASP
+        - 5. DevOps & DevSecOps
+          - DevOps Principles
+          - DevSecOps Practices
+        - 5.2 SAST in CI/CD
+          - HuskyCI
+          - HoruSec
+          - SonarQube
+        - 5.3 DAST in CI/CD
+          - OWASP ZAP
+        - 5.4 SCA on CI/CD
+          - Dependency-Check
+          - Snyk
 - Type: Training
   Trainers:
     - Name: Anirudh Anand
