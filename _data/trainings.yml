@@ -725,6 +725,16 @@
       will be a mix of the three Jenga block types: technical, organizational and interpersonal, and include specifics based on student requests. The course will include both exercises, critiques and a seminar portion. 
       Students will be offered the chance to bring a real, anonymized model for critiques. Students who are familiar with multiple techniques for threat modeling will do best. (For example, DFDs and state machines; STRIDE, 
       kill chains and attack trees.)
+      
+      ###Outline:
+      
+       - 9am-10am The Jenga model of threat modeling is a way of conceptualizing and differentiating between the many skills we bring to bear in threat modeling, and being able to use it to categorize problems will be a base for the rest of the class. Samples and discussion.
+       - 10am-12pm Critiques of threat models students bring
+       - 12pm-1pm Lunch
+       - 1pm-2pm Technical skill advanced topics, probably including some of threat modeling for conflict (trolling, computational propaganda, offensive content), IPV, comparative kill chain issues
+       - 2pm-3pm Organizational skills - How do you get an entire organization threat modeling effectively? What skills and processes do you bring to bear? The risk management trap, the B-MAD problem and more.
+       - 3pm-4pm Interpersonal skills - threat modeling is more than just the technical work. Including team diversity, active listening, respect.
+       - 4pm-5pm Seminar - The topics that we haven't gotten to that students want to discuss.
 - Type: Training
   Trainers:
     - Name: Adam Shostack
@@ -742,3 +752,20 @@
   Description: >- 
       This hands-on introductory course in threat modeling is designed to bring students from no formal threat modeling knowledge to being able to provide structured, systematic, and comprehensive analysis of new or existing technology designs.
   
+      ###Outline:
+     
+        - This course starts by introducting the Four Question Framework for threat modeling
+          - 1 What are we working on?
+          - 2 What can go wrong?
+          - 3 What are we going to do about it?
+          - 4 Did we do a good job?
+        - The course then teaches students specific skills to provide structure for answering each. The students will be provided a sample system for analysis, craft Data Flow Diagrams to show what's being worked on, use STRIDE to find what can go wrong, discuss simple and complex mitigations to address those problems, and retrospectives to decide if they've done a good enough job.
+        - (Not including breaks in the outline for simplicity)
+        - 9am-10am Threat modeling intro - threat modeling a home, threat modeling a technical system
+        - 10am-11am Getting structured - the 4 question frame, and its informal use
+        - 11am-12pm What are we working on? What's a DFD? What makes one good? Draw one, peer review, discuss. (Each segment follows the explanation, apply, review and discuss cycle for effective education.)
+        - 12pm-1pm Lunch
+        - 1pm-2:30pm STRIDE and its applicationn. What is STRIDE? Find threats with STRIDE.
+        - 2:30pm-3:30pm Mitigations - What are mitigations? What sorts of controls do we need? Why controls are a better frame than risk management or scoring.
+        - 3:30pm-4:30pm Retrospectives and selling threat modeling
+        - 4:30pm-5pm Close
