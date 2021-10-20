@@ -379,6 +379,26 @@
       - What is browser fingerprinting?
       - High-level definition
       - Differentiating fingerprinting from other tracking techniques, such as, cookies, evercookies, HSTS-based tracking, etc.
+      <br>
+      - Why is it important?
+        - Allowing services to recognize users in the absence of cookies (private mode does not help)
+        - Benign use cases 
+        - Differentiating bots from regular users
+        - Detect an attacker who is logging in with stolen credentials
+        - Somewhat abusive use cases
+        - Tracking users without their consent across websites
+      <br>
+      - How does browser fingerprinting work?
+      - Fingerprinting the JavaScript engine of a browser
+      - Fingerprinting browser attributes (navigator and screen objects)
+      - Fingerprinting the graphics card (canvas-based fingerprinting)
+      - Fingerprinting the TLS stack
+      - How the TLS handshake betrays the make of a client, regardless of what the client claims to be
+      <br>
+      - Putting it all together
+      - How these attributes are combined into a fingerprint
+      - How can the resulting fingerprints be used?
+      - Are replay attacks an issue in browser fingerprinting? For example, can attackers, in the context of a phishing attack, steal a user's fingerprintable attributes along with their credentials and replay both to the targeted service?
 - Type: Training
   Trainers:
     - Name: Ruben Ventura
