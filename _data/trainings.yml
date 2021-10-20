@@ -357,6 +357,85 @@
       advantage of these insecurely configured and designed Kubernetes deployments and perform deep-incursions into the organization’s assets. This training is a hard-core hands-on view of Kubernetes Security from an Attack and Defense perspective. The course takes the 
       participants through a journey where they start with setting up a Kubernetes cluster (simulating an on-prem Kubernetes) deployment, attack the cluster and learn, through multiple deep-dive examples and cookbooks on how they can effectively secure Kubernetes clusters. 
       The course is aimed at providing a view of attacking, auditing and defending Kubernetes clusters on-prem or on the cloud
+
+      ### Outline:
+       - Course Syllabus
+         - Day 1
+           - Introduction to Kubernetes
+             - Role of Kubernetes in Container Orchestration
+             - Kubernetes Architecture Deep-Dive
+             - Understanding multiple components in a Kubernetes Cluster
+             - Hands-On - Setting up a Kubernetes Cluster from scratch
+             - Hands-On - Deep-Dive into Objects on Kubernetes
+             - Exploring the Kubernetes Landscape
+             - Deploying Services and Applications on Kubernetes Clusters
+             - Hands-on - Deploying a multi-stack application on Kubernetes Cluster
+             - Hands-on - Leveraging Helm to simplify complex deployments
+           - Kubernetes - Red Team
+             - Kubernetes Threat Model and its counterpoint in Security Practices
+             - Understanding the Threats posed by-
+             - Vulnerable Cluster Configuration
+             - Vulnerable components in the cluster
+             - Malicious Application/Service deployed on the Cluster
+             - Kubernetes Trust boundaries & Attack Trees
+             - Case study of Real-World Cluster Attacks
+             - Analysis of Common Attack Vectors and patterns
+             - Attacking Kubernetes Clusters
+             - Privilege Escalation on Kubernetes Deployments
+             - Hands-on - Leveraging Cluster-Roles to Escalate Privileges on Kubernetes Clusters
+             - Hands-on - Attacking Helm Deployments to perform Privilege Escalation on Kubernetes Clusters
+             - Hands-on - Bypassing PodSecurityPolicies to gain persistence on Kubernetes Clusters
+             - Attacking Kubernetes Cluster components
+             - Hands-on - Attacking the cluster through exposed Kubelets
+             - Hands-on - Enumerating resources from vulnerable etcd deployments
+             - Hands-on - Spoofing DNS to perform a MITM attack on Kubernetes Clusters
+             - Hands-on - Analysing and Exploiting Kubernetes API server Vulnerability CVE-2018–1002105
+         - Day 2
+           - Kubernetes - Blue Team
+            - Kubernetes Authentication, Authorization and Admission Control
+            - Hands-on - Authentication
+            - Certificate Based Authentication Setup
+            - Webhook Authentication and Authorization with oAuth and OIDC
+            - Hands-on - Authorization
+            - Role Based Access Control (RBAC) Deployment for Kubernetes
+            - Impersonate RBAC contexts in Kubernetes to reduce attack surface
+            - Authorization Testing with Kubernetes can-i
+            - Hands-on -  (Security) Admission Controllers
+            - LimitRanger and ResourceQuota
+            - PodSecurityPolicy - with AppArmor and Seccomp
+            - DenyEscalatingExec
+            - Kubernetes Secrets
+            - Hands-on -
+            - Leveraging Hashicorp Vault for Kubernetes Secrets Management
+            - Leveraging Hashicorp Vault for Certificate Management and Authorization
+            - Leveraging Sealed Secrets for Kubernetes Cluster
+            - Leveraging Kamus for Kubernetes Cluster-level secrets
+            - Monitoring Kubernetes Clusters
+            - Hands-on -
+            - Kubernetes API Events Deep-dive and Logging Strategies
+            - OSQuery Monitoring for Nodes on Kubernetes Clusters
+            - Detecting Malicious events with EFK(ElasticSearch, Fluentd, Kibana) and Falco
+            - Open Policy Agent(OPA) on Kubernetes Clusters
+            - Understanding the need and use-cases of OPA
+            - Hands-on - Leveraging OPA to validate Ingress on Kubernetes
+            - Container Runtimes and Impact on Kubernetes Security
+            - Hands-on - Docker Container Security Engineering Practices
+            - Reducing Attack-Surface with DockerSlim
+            - Building minimal containers with Distroless containers
+            - Hands-on - Kata Containers and MicroVMs as Kube runtimes
+            - Hands-on - Container Vulnerability Assessment Techniques
+            - Scanning Containers using Clair, Anchore and Trivy
+            - Kubernetes Network Security
+            - Hands-on -
+            - Network Security Policy
+            - Service Mesh - Istio/Envoy
+            - Kubernetes Vulnerability Assessment and Audit
+            - Hands-on
+            - Auditing Kubernetes and fixing Deployment files using KubeAudit
+            - Hands-on - Scanning Spec files using KubeSec
+            - KubeHunter
+            - Kubernetes Continuous Integration and Continuous deployment
+            - Hands-on - Security pipeline using GitLab CI
 - Type: Training
   Trainers:
     - Name: Steven Wierckx
