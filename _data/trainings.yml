@@ -377,8 +377,8 @@
 
      #### Curriculum
       - What is browser fingerprinting?
-      - High-level definition
-      - Differentiating fingerprinting from other tracking techniques, such as, cookies, evercookies, HSTS-based tracking, etc.
+        - High-level definition
+        - Differentiating fingerprinting from other tracking techniques, such as, cookies, evercookies, HSTS-based tracking, etc.
       <br>
       - Why is it important?
         - Allowing services to recognize users in the absence of cookies (private mode does not help)
@@ -389,16 +389,37 @@
         - Tracking users without their consent across websites
       <br>
       - How does browser fingerprinting work?
-      - Fingerprinting the JavaScript engine of a browser
-      - Fingerprinting browser attributes (navigator and screen objects)
-      - Fingerprinting the graphics card (canvas-based fingerprinting)
-      - Fingerprinting the TLS stack
-      - How the TLS handshake betrays the make of a client, regardless of what the client claims to be
+        - Fingerprinting the JavaScript engine of a browser
+        - Fingerprinting browser attributes (navigator and screen objects)
+        - Fingerprinting the graphics card (canvas-based fingerprinting)
+        - Fingerprinting the TLS stack
+        - How the TLS handshake betrays the make of a client, regardless of what the client claims to be
       <br>
       - Putting it all together
-      - How these attributes are combined into a fingerprint
-      - How can the resulting fingerprints be used?
-      - Are replay attacks an issue in browser fingerprinting? For example, can attackers, in the context of a phishing attack, steal a user's fingerprintable attributes along with their credentials and replay both to the targeted service?
+        - How these attributes are combined into a fingerprint
+        - How can the resulting fingerprints be used?
+        - Are replay attacks an issue in browser fingerprinting? For example, can attackers, in the context of a phishing attack, steal a user's fingerprintable attributes along with their credentials and replay both to the targeted service?
+      <br>
+      - Reviewing countermeasures against fingerprinting
+        - Browser-extension based
+        - Blocking scripts vs. lying about the user's environment
+        - Showing the limitations of browser extensions and how they can in fact worsen the problem
+        - Privacy-first browsers
+      <br>  
+      - The future
+        - Discussing where browsers seem to be going regarding browser fingerprinting
+        - Differentiate between first-party fingerprinting that can be done for security (likely to stay) vs. third-party fingerprinting that works across sites (likely to go)
+     <br>
+     #### Hands-on Activities  
+      - Trainer will provide a VirtualBox VM which will be equipped with local websites, browsers, browser extensions, packet-capturing tools, and packet-analysis tools. The participants in the training can use the VM to do all the hands-on activities.
+
+        - Introduciton - Open up browser console, list navigator object, list screen object. Understand how the browser's identity is reflected in its native objects
+
+        - Getting warmer - Visit a website (that the trainer will setup) that fingerprints the user and lists the extracted attributes. Understand everything that's being fingerprinted. Try out the private mode in your browser and see if it changes anything regarding your fingerprint (hint - it doesn't)
+
+        - Somewhat Technical. Command-line activities and Wireshark activities - Use tcpdump and Wireshark to observe the TLS handshake between your browser and an HTTPS-enabled web server. Repeat the process with another browser and with a command-line tool (e.g. wget or curl). Observe how the handshake (namely the list of ciphersuites supported by the client change with each browser). Understand how, even without JavaScript and before the very first byte of HTTPS content, a web server can know if a client is lying about its identity.
+
+        - Evaluate countermeasures - Turn on browser extensions that claim to protect against browser fingerprinting. View their effects on our previous fingerprinting page. Understand how dedicated sites can expose the real identity of a browser using forgotten DOM artifacts, partial spoofing of the tell-tale properties by the extension, and JavaScript tricks (like requesting the printing (toString) of a native function, that can uncover whether that function is hijacked by the extension)
 - Type: Training
   Trainers:
     - Name: Ruben Ventura
