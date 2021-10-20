@@ -690,6 +690,21 @@
   SectionId: sku_TMFNTD
   Description: >- 
       This session offers participants an interactive introduction to Threat Modeling, based on the instructor's learning and experience over the past several years. A primary focus of this course is the introduction of threat modeling activities into your organization's software development processes, to improve the overall quality and security of the applications you build. As a "convert" to the application security world, your instructor has developed his "expertise" in threat modeling by gathering information from a variety of sources. He's combined those learnings with his own experience to create a practical threat modeling approach he has successfully applied within his professional roles. In addition to addressing key questions around the "Five Ws," the presentation will cover the "Seven Questions" approach (an expansion of Shostack's "Four Questions") to developing a model, and include several interactive exercises to provide direct experience. A brief review of available modeling tools will also be included, along with a discussion of the opportunities and challenges for introducing Threat Modeling into your SDLC. 
+
+      ###Outline
+       - Introduction - Overview, and Initial Modeling Exercise
+       - The Five Ws of Threat Modeling
+       - Our Modeling Approach - DiLeo's Seven Questions
+       - Identifying the Scope
+       - Identifying Threats
+       - Risk Management Overview
+       - Identifying Candidate Mitigations
+       - Selecting Mitigations to Implement
+       - Verification and Validation
+       - Getting Started - Incremental Threat Modeling
+       - Tools for Creating Threat Models
+       - SDLC Integration
+       - Review and Closing Thoughts
 - Type: Training
   Trainers:
     - Name: Adam Shostack
