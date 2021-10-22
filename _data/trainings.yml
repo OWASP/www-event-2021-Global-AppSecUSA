@@ -625,58 +625,60 @@
   URL: https://www.eventbrite.com/e/global-appsec-us-2021-virtual-training-tickets-188589806187
   SectionId: sku_SCOTW
   Description: >- 
-      This training is focused on finding web app security vulnerabilities automatically through the use of highly effective tools which 
-      will be developed in the course of this training. A vast spectrum of topics will be explained, ranging from foundational ones and then 
-      moving up to esoteric vulnerabilities that are realtively new which usually remain undetected. The main objective is to write scripts at 
-      a very high speed that perform almost every stage of a web security assessment methodology using not well-known tricks which aren't implemented 
-      in the tools that are used the most, including types of attacks that are still not wide-spread, certainly not massively known and very dangerous 
-      (mentioned further on the outline). The language that will be used for building this arsenal of tools will be Python, because of the fact that 
-      this language helps to write very clear code and it is very easy to comprehend. These utilities are completely original and more capable than 
-      the public and commercial ones, with the advantage that they will be easily extendible by yourselves. The few already public tools that are way 
-      too powerful won't be reinvented, but definitely covered in the explanations. If you already know Python, this workshop is perfect for you, because 
-      the time taken to explain the language will be practically null because these tools are practically self-explanatory, thus you will be able to use 
-      your time in developing utilities that will boost up the speed and flow of your daily work. If you do not know Python, this training is also perfect 
-      for you: the language will be quickly, briefly and intuitively explained from a hacker perspective in order to develop scripts that you for sure will 
-      be using in your every-day work. The explanations will be the very same tools that will be developed in the training, all of this to have a better 
-      flow of how the training will advance. It will be extremely simple to learn it just by reading the code.If you already have experience in web app 
-      security, this workshop might still be worthy of you attention because of the methods not yet widely popularly known detailed further in the outline, 
-      and none of them can be found in any book just yet. Original techniques will be explained. Furthermore, most of the time will be used to construct 
-      the pieces of your very own framework to accomplish web security assessments. Do not forget this will be a long session. It is recommended to bring 
-      0xC0FFEE.
+      This training is focused on finding web app security vulnerabilities automatically through the use of highly effective tools which will be developed in the course of this training.
+      
+      A vast spectrum of topics will be explained, ranging from foundational ones and then moving up to esoteric vulnerabilities that are realtively new which usually remain undetected. The main objective is to write scripts at a very high speed that perform almost every stage of a web security assessment methodology using not well-known tricks which aren't implemented in the tools that are used the most, including types of attacks that are still not wide-spread, certainly not massively known and very dangerous (mentioned further on the outline).
+ 
+      The language that will be used for building this arsenal of tools will be Python, because of the fact that this language helps to write very clear code and it is very easy to comprehend.
+      These utilities are completely original and more capable than the public and commercial ones, with the advantage that they will be easily extendible by yourselves. The few already public tools that are way too powerful won't be reinvented, but definitely covered in the explanations.
+ 
+      If you already know Python, this workshop is perfect for you, because the time taken to explain the language will be practically null because these tools are practically self-explanatory, thus you will be able to use your time in developing utilities that will boost up the speed and flow of your daily work.
+
+ 
+      If you do not know Python, this training is also perfect for you - the language will be quickly, briefly and intuitively explained from a hacker perspective in order to develop scripts that you for sure will be using in your every-day work. The explanations will be the very same tools that will be developed in the training, all of this to have a better flow of how the training will advance. It will be extremely simple to learn it just by reading the code.
+ 
+      If you already have experience in web app security, this workshop might still be worthy of you attention because of the methods not yet widely popularly known detailed further in the outline, and none of them can be found in any book just yet. Original techniques will be explained. Furthermore, most of the time will be used to construct the pieces of your very own framework to accomplish web security assessments.
+ 
+      Do not forget this will be a long session. It is recommended to bring 0xC0FFEE.
+
       
       ### Outline:
-       - [+] Reconnaissance Gathering - massive INTEL fast and automatically.
-       - [+] Attacking authentication
-       - [+] Access controls evasion
-       - [+] Building your own "web spider" library for multiple uses
-       - [-] Mass-scanning the entire web in look for vulnerabilities
-       - [+] Cross-site Scripting
-       - [-] Finding and exploiting XSS vulnerabilities.
-       - [-] XSS testing fase optimization with polyglot payloads
-       - [-] DOM-based XSS
-       - [*] Understanding the DOM and DOM-based attacks
-       - [*] Tricks for finding DOM-based XSS in packed/encoded/obfuscated noodled-tangles scripts.
-       - [*] Breaking javascript DOM implementations using "friendly" sanitized code.
-       - [+] SQL injections
-       - [-] Quickly identifying SQL injection vulnerabilities using polyglot payloads.
-       - [-] SQL injection exploitation
-       - [-] Exploiting SQL injections in a cutting-edge way
-       - [*] New methods for bypassing authentication in which every other tool fails.
-       - [*] Data extraction through deductive algorithms that extract only fragments of the information and then infer the values of the rest which work in 100% of test cases
-       - [-] What to do when the table names and column names tables cannot be read without using brute force?
-       - [-] Writing your own sqlmap tamper scripts.
-       - [+] XPath injection
-       - [-] New original methods to exploit XPath injections
-       - [*] Content Security Policy bypass (in certain cases)
-       - [*] Writing the fastest tool in the world to extract information through XPath injections.
-       - [*] Arbitrary file disclosure with a new method.
-       - [+] Relative reference attacks -  How to turn completely sanitized input into harmful code execution
-       - [+] Exploiting Cross-Site Request Forgery
-       - [+] Open Redirection vulnerabilities exploitation
-       - [+] Path traversal
-       - [+] List of many other types of vulnerabilities not covered in this training.
-       - [+] Theory of how to integrate all the tools to build your own exploitation framework.
-       - [+] The coffee comedown.      
+       
+       [+] Reconnaissence - Gathering massive INTEL fast and automatically.
+       [+] Attacking authentication - evaluate the security of authentication mechanisms automatically with practically no intervention.
+       [+] Building your own "web spider" library for multiple uses
+       [-] Mass-scanning the entire web looking out for vulnerabilites
+       [+] Cross-site Scripting
+       [-] Finding and exploiting XSS vulnerabilities.
+       [-] XSS testing fase optimization with polyglot payloads
+       [-] Heavy javascript obfuscation to bypass practically every single web application firewall in the planet
+       [-] DOM-based XSS
+       [*] Understanding the DOM and DOM-based attacks
+       [*] Tricks for finding DOM-based XSS in packed/encoded/obfuscated noodled-tangled scripts.
+       [-] Serialization errors that lead to XSS
+       [+] Breaking javascript DOM implemenetations using "friendly" sanitized HTML.
+       [+] SQL injections
+       [-] Quickly identifying SQL injection vulnerabilities using polyglot payloads.
+       [-] SQL injection exploitation
+       [-] Exploiting SQL injections in a cutting-edge way
+       [*] New methods for bypassing authentication in which every other tool fails.
+       [*] Data extraction through deductive algorithms that extract only fragments of the information and then infere the values of the rest which works 100% of the time
+       [*] How I wrote the fastest tool in the planet to peform blind SQL injections
+       [-] What to do when the table names and column names tables cannot be read?
+       [-] Writing your own sqlmap tamper scripts which bypass a great variety of firewalls and IDS.
+       [+] XPath injection
+       [-] New original methods to exploit XPath injections
+       [*] Content Security Policy bypass (in certain cases)
+       [*] New XPath injection optimization methods
+       [*] Writing the only tool in the world that extracts arbitrary files through blind XPath injections
+       [+] Relative reference attacks - How to turn completley sanitized input into harmful code execution
+       [+] Exploiting Cross-Site Request Forgery
+       [+] Access control evasion
+       [+] Open Redirection vulnerabilities
+       [+] Path traversal
+       [+] List of many other types of vulnerabilities not covered in this training.
+       [+] Theory of how to integrate all the tools to build your own exploitation framework.
+       [+] The coffe comedown.    
 - Type: Training
   Trainers:
     - Name: John DiLeo
