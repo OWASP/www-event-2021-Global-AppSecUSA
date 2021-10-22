@@ -645,39 +645,73 @@
       ### Outline:
        
        [+] Reconnaissence - Gathering massive INTEL fast and automatically.
+
        [+] Attacking authentication - evaluate the security of authentication mechanisms automatically with practically no intervention.
+
        [+] Building your own "web spider" library for multiple uses
+
        [-] Mass-scanning the entire web looking out for vulnerabilites
+
        [+] Cross-site Scripting
+
        [-] Finding and exploiting XSS vulnerabilities.
+
        [-] XSS testing fase optimization with polyglot payloads
+
        [-] Heavy javascript obfuscation to bypass practically every single web application firewall in the planet
+       
        [-] DOM-based XSS
+       
        [*] Understanding the DOM and DOM-based attacks
+       
        [*] Tricks for finding DOM-based XSS in packed/encoded/obfuscated noodled-tangled scripts.
+       
        [-] Serialization errors that lead to XSS
+       
        [+] Breaking javascript DOM implemenetations using "friendly" sanitized HTML.
+       
        [+] SQL injections
+       
        [-] Quickly identifying SQL injection vulnerabilities using polyglot payloads.
+       
        [-] SQL injection exploitation
+       
        [-] Exploiting SQL injections in a cutting-edge way
+       
        [*] New methods for bypassing authentication in which every other tool fails.
+       
        [*] Data extraction through deductive algorithms that extract only fragments of the information and then infere the values of the rest which works 100% of the time
+       
        [*] How I wrote the fastest tool in the planet to peform blind SQL injections
+       
        [-] What to do when the table names and column names tables cannot be read?
+       
        [-] Writing your own sqlmap tamper scripts which bypass a great variety of firewalls and IDS.
+       
        [+] XPath injection
+       
        [-] New original methods to exploit XPath injections
+       
        [*] Content Security Policy bypass (in certain cases)
+       
        [*] New XPath injection optimization methods
+       
        [*] Writing the only tool in the world that extracts arbitrary files through blind XPath injections
+       
        [+] Relative reference attacks - How to turn completley sanitized input into harmful code execution
+       
        [+] Exploiting Cross-Site Request Forgery
+       
        [+] Access control evasion
+       
        [+] Open Redirection vulnerabilities
+       
        [+] Path traversal
+       
        [+] List of many other types of vulnerabilities not covered in this training.
+       
        [+] Theory of how to integrate all the tools to build your own exploitation framework.
+       
        [+] The coffe comedown.    
 - Type: Training
   Trainers:
@@ -728,7 +762,7 @@
       Students will be offered the chance to bring a real, anonymized model for critiques. Students who are familiar with multiple techniques for threat modeling will do best. (For example, DFDs and state machines; STRIDE, 
       kill chains and attack trees.)
       
-      ###Outline:
+      ### Outline:
       
        - 9am-10am The Jenga model of threat modeling is a way of conceptualizing and differentiating between the many skills we bring to bear in threat modeling, and being able to use it to categorize problems will be a base for the rest of the class. Samples and discussion.
        - 10am-12pm Critiques of threat models students bring
@@ -754,7 +788,7 @@
   Description: >- 
       This hands-on introductory course in threat modeling is designed to bring students from no formal threat modeling knowledge to being able to provide structured, systematic, and comprehensive analysis of new or existing technology designs.
   
-      ###Outline:
+      ### Outline:
      
         - This course starts by introducting the Four Question Framework for threat modeling
           - 1 What are we working on?
