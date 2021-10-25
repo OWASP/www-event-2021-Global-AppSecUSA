@@ -48,3 +48,8 @@
   url: https://www.checkpoint.com
   backgroundSize: 125px
   type: Diamond
+- logo: /assets/images/sponsors/Resurface Labs 2.png
+  name: Resurface Labs
+  url: https://www.resurface.io
+  backgroundSize: 125px
+  type: Gold
