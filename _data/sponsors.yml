@@ -53,7 +53,7 @@
   url: https://www.resurface.io
   backgroundSize: 125px
   type: Gold
-- logo:/assets/images/sponsors/Indusface.png
+- logo: /assets/images/sponsors/Indusface.png
   name: Indusface
   url: https://www.indusface.com
   backgroundSize: 125px
