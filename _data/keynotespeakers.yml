@@ -11,7 +11,7 @@
   subject: We Deserve Rights 
   abstract: Hackers have been mislabeled and treated as criminals due to socially constructed beliefs that have been pushed out by the public. In return, we face prosecution when doing our job and trying to keep the world safe from attackers. Current legislation has destroyed many lives of hackers who did not exploit and stayed within scope. In return, 1 out of 4 hackers don't submit vulnerabilities due to the ongoing fear of prosecution. This talk dives into the socially constructed beliefs that the world has towards hackers and how increasing public awareness is needed to change their mindset to update out-of-date legislation.
   #style: background-repeat:no-repeat;
-- image: /assets/images/keynotes/JimManico.jpeg
+- image: JimManico.jpeg
   name: Jim Manico
   title: Founder, CEO and Application Security Educator
   bio: "<pJim Manico is the founder of Manicode Security where he trains software developers on secure coding and security engineering. He is also an investor/advisor for Nucleus Security, BitDiscovery, Secure Circle, KSOC and Inspectiv. Jim is a frequent speaker on secure software practices, is a member of the Java Champion community, and is the author of "Iron-Clad Java: Building Secure Web Applications" from Oracle Press. Jim also volunteers for the OWASP foundation as the project lead for the OWASP Application Security Verification Standard and the OWASP Cheatsheet Series. For more information, see https://www.linkedin.com/in/jmanico.</p>" 
