@@ -14,20 +14,9 @@ permalink: /trainings/
 2-day Training courses will be held virtually November 9-10<br>
 1-day Training courses will be held virtually November 10 **with the exception of "Threat Modeling: A Master Class" which will be held on Nov. 9.**<br>
 All courses will be virtual, beginning at 9amPT and will run until 5pmPT.
-{% if site.data.trainings.size > 0 %}
-{% assign trainings = site.data.trainings | sort: 'Title' %}
-{% for trainer in trainings %}
-<section class="trainer-section" id="{{trainer.SectionId}}">
-<hr>
-<ul>
-<li><h3 class='training-header'>{{ trainer.Title }}<button class="cta-button grey" {%if trainer.Status == 'Postponed' or trainer.Status == 'Canceled' or trainer.Status == 'Booked Out' %}disabled='true' {%endif%} onclick="location.href='{{trainer.URL}}';" style="margin-left:1em;cursor: pointer;max-width=80px;">{%if trainer.Status == 'Postponed' or trainer.Status == 'Canceled' or trainer.Status == 'Booked Out'%}{{trainer.Status}}{%else%}Join Us{%endif%}</button></h3></li>
-<li class="training-desc">{{ trainer.Description | markdownify }}</li>
-    <ul>
-        {% for tr in trainer.Trainers %}
-        <li><div class="training-container"><a href="/trainers/#{{tr.TrainerId}}" title="{{tr.Biography | strip_html}}"><div class="training-image" style="background-image:url('{{tr.Image}}');"></div>{{tr.Name}}</a></div></li>
-        {% endfor %}
-    </ul>
-</ul>
-</section>
-{% endfor %}
-{% endif %}
+
+---
+
+div><div title="Whova event and conference app" id="whova-agendawidget"><p id="whova-loading">Loading...</p></div><script src="https://whova.com/static/frontend/agenda_webpage/js/embedagenda.js?eid=owasp1_202111&host=https://whova.com"
+ type="text/javascript" id="embeded-agenda-script"></script><div id="whova-wrap"> Powered By <a class="brandlink" target="_blank" href="https://whova.com"><b>Whova</b></a><div id="whova-mgm"><a href="https://whova.com/whova-event-app/"
+ id="whova-emslink" target="_blank"> Best Conference and Event App </a></div></div><img style="display:none" src="https://whova.com/xems/apis/get_whova_tracking_image/?event_id=owasp1_202111&track_id=agenda_webpage_added" /></div>
