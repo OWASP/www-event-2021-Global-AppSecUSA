@@ -13,7 +13,7 @@ permalink: /trainings/
 3-day Training courses will be held virtually November 8-10<br>
 2-day Training courses will be held virtually November 9-10<br>
 1-day Training courses will be held virtually November 10 **with the exception of "Threat Modeling: A Master Class" which will be held on Nov. 9.**<br>
-All courses will be virtual, beginning at 9 am/PT and will run until 5 pm/PT.
+All courses will be virtual, beginning at 9 am/PDT and will run until 5 pm/PDT.
 
 **Training courses require a seperate registration and have an additional fee associated with them. Trainings are not included as part of a confernce ticket. Please register before November 4 [here](https://www.eventbrite.com/e/global-appsec-us-2021-virtual-training-tickets-188589806187) for training.**
 
