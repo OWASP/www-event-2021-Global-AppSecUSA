@@ -15,7 +15,7 @@ permalink: /trainings/
 1-day Training courses will be held virtually November 10 **with the exception of "Threat Modeling: A Master Class" which will be held on Nov. 9.**<br>
 All courses will be virtual, beginning at 9amPT and will run until 5pmPT.
 
-Training courses require a seperate registration and have an additional fee associated with them. They are not included as part of a confernce ticket. 
+Training courses require a seperate registration and have an additional fee associated with them. They are not included as part of a confernce ticket. Register [here](https://www.eventbrite.com/e/global-appsec-us-2021-virtual-training-tickets-188589806187) for training.
 
 ---
 
