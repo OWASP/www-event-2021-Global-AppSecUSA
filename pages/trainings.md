@@ -15,6 +15,8 @@ permalink: /trainings/
 1-day Training courses will be held virtually November 10 **with the exception of "Threat Modeling: A Master Class" which will be held on Nov. 9.**<br>
 All courses will be virtual, beginning at 9amPT and will run until 5pmPT.
 
+Training courses require a seperate registration and have an additional fee associated with them. They are not included as part of a confernce ticket. 
+
 ---
 
 <div><div title="Whova event and conference app" id="whova-agendawidget"><p id="whova-loading">Loading...</p></div><script src="https://whova.com/static/frontend/agenda_webpage/js/embedagenda.js?eid=owasp1_202111&host=https://whova.com"
