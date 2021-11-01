@@ -1,7 +1,7 @@
 ---
 
-title: Schedule & Trainings
+title: About
 layout: event_noheader
-permalink: /trainings/
+permalink: /about/
 
 ---
