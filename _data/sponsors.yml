@@ -63,3 +63,8 @@
   url: https://www.nowsecure.com
   backgroundSize: 125px
   type: Platinum
+- logo: /assets/images/sponsors/Torq logo.png
+  name: Torq
+  url: https://www.torq.io
+  backgroundSize: 125px
+  type: Platinum
