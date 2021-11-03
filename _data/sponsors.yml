@@ -73,3 +73,8 @@
   url: https://www.traceable.ai
   backgroundSize: 125px
   type: Diamond
+- logo: /assets/images/sponsors/Contrast Security Logo.png
+  name: Contrast Security
+  url: https://www.contrastsecurity.com
+  backgroundSize: 125px
+  type: Supporter
