@@ -78,3 +78,8 @@
   url: https://www.contrastsecurity.com
   backgroundSize: 125px
   type: Supporter
+- logo: /assets/images/sponsors/Salt Security Logo.jpg
+  name: Salt Security
+  url: https://www.salt.security.com
+  backgroundSize: 125px
+  type: Diamond
