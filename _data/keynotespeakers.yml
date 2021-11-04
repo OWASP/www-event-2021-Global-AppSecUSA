@@ -18,10 +18,10 @@
   subject: Request Forgery on the Web - SSRF, CSRF and Clickjacking
   abstract: This technical talk on various forms of request forgery is for the software developer who needs to build secure web applications. Cross-Site Request Forgery, or CSRF, will allow an attacker to trick a user into submitting a transaction they never intended to. This attack type requires very specialized defense. We will discuss various historical CSRF attacks and investigate a wide range of defensive strategies such as nonce tokens, SameSite cookies, and the double-cookie submit pattern. SSFF is a direct attacker category meant to trick your servers into making additional requests than never intended to. Clickjacking is a way to trick users into taking action and entering data into one site while another is collecting those events. We will be helping developers stop forgery on the web in this talk!
   #style: background-repeat:no-repeat;
-- image: /assets/images/keynotes/Coming-soon-stamp.jpeg
-  #name: Harold Blankenship
-  #title: Director of Technology and Projects
-  #bio: <p>Descriptive bio text.</p> 
-  #subject:  
-  #abstract:
+- image: AnastasiiaVoitova.jpeg
+  name: Anastasiia Voitova
+  title: Head of Customer Solutions / Security Software Engineer
+  bio: <p>Head of customer solutions, security software engineer at Cossack Labs. Anastasiia builds security tools for protecting data during the whole lifecycle (encrypt everything!). She shares a lot about "boring cryptography", end-to-end encryption, data security, zero knowledge / zero trust systems, software security architecture. Anastasiia maintains open-source cryptographic library Themis, conducts secure software development training, often speaks at international conferences, co-organizes cyber-security events and leads security chapter at WomenWhoCode Kyiv.</p> 
+  subject: Data is a new security boundary  
+  abstract: "We will discuss how companies use cryptography as an ultimate security control for data. When data is properly encrypted, it can’t be suddenly, unnoticeably decrypted. End-to-end encryption flow for the NoCode platform? Sure. DRM-like protection with application-level encryption using HPKE-like approach for protecting ML models? Yes. End-to-end encrypted message exchange for CRDT-based real-time syncing app? Yep. But cryptography requires a set of supporting security controls: API protection, anti-fraud scoring system, mobile device attestation, root/jailbreak detection, authN-authZ, audit logging, and so on. Let’s talk about how 'strong cryptography' becomes 'real-world security boundary around sensitive data' and what it takes in different contexts."
   #style: background-repeat:no-repeat;
