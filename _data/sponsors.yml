@@ -28,11 +28,6 @@
   url: https://www.microfocus.com/en-us/cyberres/application-security
   backgroundSize: 125px
   type: Diamond
-- logo: /assets/images/sponsors/noname_logo_dark__owasp (1).jpg
-  name: NoName Security
-  url: https://nonamesecurity.com
-  backgroundSize: 125px
-  type: Diamond
 - logo: /assets/images/sponsors/praetorianlogo.png
   name: Praetorian
   url: https://praetorian.com
@@ -81,5 +76,10 @@
 - logo: /assets/images/sponsors/Salt Security Logo.jpg
   name: Salt Security
   url: https://www.salt.security.com
+  backgroundSize: 125px
+  type: Diamond
+- logo: /assets/images/sponsors/noname_logo_dark__owasp (1).jpg
+  name: Noname
+  url: https://www.nonamesecurity.com
   backgroundSize: 125px
   type: Diamond
