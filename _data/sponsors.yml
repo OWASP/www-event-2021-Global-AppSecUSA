@@ -83,3 +83,8 @@
   url: https://www.nonamesecurity.com
   backgroundSize: 125px
   type: Diamond
+- logo: /assets/images/sponsors/cycode-logo.jpg
+  name: Cycode
+  url: https://www.cycode.com
+  backgroundSize: 125px
+  type: Diamond
